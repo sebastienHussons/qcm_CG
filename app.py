@@ -9,7 +9,6 @@ qcm2022 = [
 # qcm2022.py
 # ===========
 
-questions = [
     {
         "question": "1. Lors des jeux olympiques de 2024, les épreuves de surf devraient se dérouler à :",
         "options": {"A": "Lacanau", "B": "Tahiti", "C": "Hossegor", "D": "Biarritz"},
