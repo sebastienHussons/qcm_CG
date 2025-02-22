@@ -3665,50 +3665,47 @@ qcm_collection = {
 # --- Interface Streamlit ---
 
 # Barre latérale pour choisir le QCM
+# Barre latérale pour choisir le QCM
 selected_qcm = st.sidebar.selectbox("Choisissez le QCM :", list(qcm_collection.keys()))
 questions = qcm_collection[selected_qcm]
 
 st.title(f"QCM d'évaluation - {selected_qcm}")
 
-# Score global
+# Initialisation du score et du résumé des questions incorrectes
 score = 0
+wrong_summary = []
 
-# Parcours de chaque question, correction immédiate
+# Parcours de chaque question avec correction immédiate
 for idx, q in enumerate(questions):
     st.markdown(f"**{q['question']}**")
-
-    # On ajoute un placeholder pour qu'aucune option ne soit présélectionnée
+    
+    # Placeholder pour ne pas présélectionner d'option
     placeholder_text = "Faites un choix"
-    # On concatène ce placeholder au début de la liste d'options
     all_options = [placeholder_text] + list(q["options"].keys())
-
-    # Radio avec index=0 => placeholder sélectionné par défaut
-    answer = st.radio(
-        "Votre réponse :",
-        all_options,
-        index=0,
-        key=f"q{idx}"
-    )
-
-    # Affichage du détail des options
-    st.markdown(", ".join([f"**{k}** : {v}" for k, v in q["options"].items()]))
-
+    
+    answer = st.radio("Votre réponse :", all_options, index=0, key=f"q{idx}")
+    
+    # Affichage des options sous forme de liste à puces
+    st.markdown("\n".join([f"- **{k}** : {v}" for k, v in q["options"].items()]))
+    
     if answer == placeholder_text:
-        # L'utilisateur n'a pas encore fait de choix
         st.warning("Veuillez sélectionner une option.")
     else:
-        # Vérification de la réponse
         if answer == q["correct"]:
             st.success(f"Correct ! Votre réponse : {answer} - {q['options'][answer]}")
             score += 1
         else:
-            st.error(
-                f"Faux. Votre réponse : {answer} - {q['options'][answer]}."
-                f" La bonne réponse est : {q['correct']} - {q['options'][q['correct']]}"
-            )
+            st.error(f"Faux. Votre réponse : {answer} - {q['options'][answer]}. La bonne réponse est : {q['correct']} - {q['options'][q['correct']]}")
+            wrong_summary.append({
+                "question": q["question"],
+                "your_answer": answer,
+                "your_answer_text": q["options"][answer],
+                "correct": q["correct"],
+                "correct_text": q["options"][q["correct"]]
+            })
     st.write("---")
 
-# Affichage de la note finale
+# Affichage du score final
 total_questions = len(questions)
 if total_questions > 0:
     percentage = (score / total_questions) * 100
@@ -3718,5 +3715,14 @@ else:
     score_out_of_20 = 0
 
 st.subheader(f"Score final : {score} / {total_questions}")
-st.subheader(f"Note en pourcentage : {percentage:.2f} %")   # Note sur 100
+st.subheader(f"Note en pourcentage : {percentage:.2f} %")
 st.subheader(f"Note sur 20 : {score_out_of_20:.2f} / 20")
+
+# Affichage du récapitulatif des questions incorrectes
+if wrong_summary:
+    st.header("Récapitulatif des questions incorrectes")
+    for item in wrong_summary:
+        st.markdown(f"**{item['question']}**")
+        st.write(f"Votre réponse : {item['your_answer']} - {item['your_answer_text']}")
+        st.write(f"Bonne réponse : {item['correct']} - {item['correct_text']}")
+        st.write("---")
