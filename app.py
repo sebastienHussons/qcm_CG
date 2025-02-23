@@ -3678,8 +3678,8 @@ qcm_collection = {
     "QCM 2022": qcm2022,
     "QCM 2023": qcm2023,
     "QCM 2024": qcm2024,
-    "QCM Supplémentaire 1": qcm_100_questions,
-    "QCM Supplémentaire 2": qcm2_100_questions
+    "QCM by gpt 1": qcm_100_questions,
+    "QCM by gpt 2": qcm2_100_questions
 }
 
 # Interface Streamlit
