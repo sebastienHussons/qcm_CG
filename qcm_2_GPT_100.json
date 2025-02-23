@@ -1,0 +1,932 @@
+[
+  {
+    "question": "En quelle année a eu lieu la prise de la Bastille ?",
+    "options": {
+      "A": "1789",
+      "B": "1792",
+      "C": "1776",
+      "D": "1804"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui est considéré comme le père de l'histoire ?",
+    "options": {
+      "A": "Hérodote",
+      "B": "Thucydide",
+      "C": "Tacite",
+      "D": "Florus"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel roi de France est surnommé le Roi Soleil ?",
+    "options": {
+      "A": "Louis XIV",
+      "B": "Louis XVI",
+      "C": "Philippe IV",
+      "D": "Charles VII"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "En quelle année la Déclaration des Droits de l'Homme et du Citoyen a-t-elle été adoptée ?",
+    "options": {
+      "A": "1789",
+      "B": "1793",
+      "C": "1776",
+      "D": "1804"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel événement marque le début de la Révolution française ?",
+    "options": {
+      "A": "La prise de la Bastille",
+      "B": "La Déclaration des Droits de l'Homme",
+      "C": "La fuite à Varennes",
+      "D": "La Révolution de Juillet"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+    "options": {
+      "A": "Le traité de Versailles",
+      "B": "Le traité de Trianon",
+      "C": "Le traité de Brest-Litovsk",
+      "D": "Le traité de Paris"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel empire fut dirigé par Gengis Khan ?",
+    "options": {
+      "A": "L'Empire mongol",
+      "B": "L'Empire ottoman",
+      "C": "L'Empire perse",
+      "D": "L'Empire romain"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+    "options": {
+      "A": "1989",
+      "B": "1991",
+      "C": "1987",
+      "D": "1993"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays a été dirigé par Nelson Mandela après l'apartheid ?",
+    "options": {
+      "A": "L'Afrique du Sud",
+      "B": "Le Zimbabwe",
+      "C": "Le Kenya",
+      "D": "L'Éthiopie"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel organisme européen a son siège à Strasbourg ?",
+    "options": {
+      "A": "Le Parlement européen",
+      "B": "La Commission européenne",
+      "C": "Le Conseil de l'Union européenne",
+      "D": "La Cour de justice de l'Union européenne"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le plus grand pays du monde par superficie ?",
+    "options": {
+      "A": "La Russie",
+      "B": "Le Canada",
+      "C": "La Chine",
+      "D": "Les États-Unis"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel fleuve est le plus long du monde ?",
+    "options": {
+      "A": "Le Nil",
+      "B": "L'Amazone",
+      "C": "Le Mississippi",
+      "D": "Le Yangtsé"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale de l'Italie ?",
+    "options": {
+      "A": "Rome",
+      "B": "Milan",
+      "C": "Naples",
+      "D": "Turin"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "options": {
+      "A": "Berlin",
+      "B": "Munich",
+      "C": "Francfort",
+      "D": "Hambourg"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays est surnommé « le pays du Soleil Levant » ?",
+    "options": {
+      "A": "Le Japon",
+      "B": "La Chine",
+      "C": "La Corée du Sud",
+      "D": "Taïwan"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel océan est le plus vaste du monde ?",
+    "options": {
+      "A": "L'océan Pacifique",
+      "B": "L'océan Atlantique",
+      "C": "L'océan Indien",
+      "D": "L'océan Arctique"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "options": {
+      "A": "L'Everest",
+      "B": "Le K2",
+      "C": "Le Kangchenjunga",
+      "D": "L'Annapurna"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays est le plus peuplé du monde ?",
+    "options": {
+      "A": "La Chine",
+      "B": "L'Inde",
+      "C": "Les États-Unis",
+      "D": "L'Indonésie"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "options": {
+      "A": "Victor Hugo",
+      "B": "Alexandre Dumas",
+      "C": "Gustave Flaubert",
+      "D": "Émile Zola"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel mouvement artistique est associé à Claude Monet ?",
+    "options": {
+      "A": "L'impressionnisme",
+      "B": "Le cubisme",
+      "C": "Le surréalisme",
+      "D": "Le fauvisme"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "options": {
+      "A": "Antoine de Saint-Exupéry",
+      "B": "Jules Verne",
+      "C": "Marcel Proust",
+      "D": "Albert Camus"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a composé la symphonie n°9 dite « Chorale » ?",
+    "options": {
+      "A": "Ludwig van Beethoven",
+      "B": "Johannes Brahms",
+      "C": "Wolfgang Amadeus Mozart",
+      "D": "Antonín Dvořák"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel roman dystopique a été écrit par George Orwell ?",
+    "options": {
+      "A": "1984",
+      "B": "Le Meilleur des mondes",
+      "C": "Fahrenheit 451",
+      "D": "La Servante écarlate"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel philosophe grec fut l'élève de Socrate ?",
+    "options": {
+      "A": "Platon",
+      "B": "Aristote",
+      "C": "Épicure",
+      "D": "Zénon"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui fut le premier empereur du Saint-Empire romain germanique ?",
+    "options": {
+      "A": "Auguste",
+      "B": "Charlemagne",
+      "C": "Otton le Grand",
+      "D": "Frédéric Barberousse"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Quel événement a déclenché la Première Guerre mondiale ?",
+    "options": {
+      "A": "L'assassinat de l'archiduc François-Ferdinand",
+      "B": "La révolution russe",
+      "C": "La bataille de Verdun",
+      "D": "La prise de la Bastille"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle invention a permis la révolution industrielle ?",
+    "options": {
+      "A": "La machine à vapeur",
+      "B": "L'ordinateur",
+      "C": "Le téléphone",
+      "D": "La voiture"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui est considéré comme le père de la psychanalyse ?",
+    "options": {
+      "A": "Sigmund Freud",
+      "B": "Carl Jung",
+      "C": "Alfred Adler",
+      "D": "Jacques Lacan"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel scientifique a formulé la théorie de la relativité ?",
+    "options": {
+      "A": "Albert Einstein",
+      "B": "Isaac Newton",
+      "C": "Galilée",
+      "D": "Niels Bohr"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+    "options": {
+      "A": "CO₂",
+      "B": "O₂",
+      "C": "H₂O",
+      "D": "CH₄"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est l'élément chimique dont le symbole est Fe ?",
+    "options": {
+      "A": "Fer",
+      "B": "Fluor",
+      "C": "Francium",
+      "D": "Fermium"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Combien de planètes composent notre système solaire (en excluant Pluton) ?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "7",
+      "D": "10"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Combien de jours dure approximativement une révolution de la Terre autour du Soleil ?",
+    "options": {
+      "A": "365 jours",
+      "B": "360 jours",
+      "C": "400 jours",
+      "D": "300 jours"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'L'Origine des espèces' ?",
+    "options": {
+      "A": "Charles Darwin",
+      "B": "Alfred Russel Wallace",
+      "C": "Gregor Mendel",
+      "D": "Jean-Baptiste Lamarck"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le principal gaz à effet de serre d'origine naturelle ?",
+    "options": {
+      "A": "La vapeur d'eau",
+      "B": "Le dioxyde de carbone",
+      "C": "Le méthane",
+      "D": "L'ozone"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale de l'Espagne ?",
+    "options": {
+      "A": "Madrid",
+      "B": "Barcelone",
+      "C": "Séville",
+      "D": "Valence"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a peint La Joconde ?",
+    "options": {
+      "A": "Léonard de Vinci",
+      "B": "Michel-Ange",
+      "C": "Raphaël",
+      "D": "Titien"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel opéra raconte l'histoire tragique de Mimi et Rodolfo ?",
+    "options": {
+      "A": "La Bohème",
+      "B": "Tosca",
+      "C": "Madama Butterfly",
+      "D": "Turandot"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel instrument est étroitement associé à Ludwig van Beethoven ?",
+    "options": {
+      "A": "Le piano",
+      "B": "Le violon",
+      "C": "La guitare",
+      "D": "La flûte"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel poème célèbre de Baudelaire figure dans 'Les Fleurs du mal' ?",
+    "options": {
+      "A": "L'Albatros",
+      "B": "Le Cygne",
+      "C": "Le Vampire",
+      "D": "La Chevelure"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+    "options": {
+      "A": "1969",
+      "B": "1965",
+      "C": "1972",
+      "D": "1959"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le nom de la mission Apollo qui a permis le premier alunissage ?",
+    "options": {
+      "A": "Apollo 11",
+      "B": "Apollo 13",
+      "C": "Apollo 10",
+      "D": "Apollo 8"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays est reconnu comme l'inventeur du papier ?",
+    "options": {
+      "A": "La Chine",
+      "B": "L'Égypte",
+      "C": "La Grèce",
+      "D": "L'Inde"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "options": {
+      "A": "Le Sahara",
+      "B": "Le désert d'Arabie",
+      "C": "Le Kalahari",
+      "D": "Le désert de Gobi"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "options": {
+      "A": "Victor Hugo",
+      "B": "Alexandre Dumas",
+      "C": "Gustave Flaubert",
+      "D": "Émile Zola"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la devise de la République française ?",
+    "options": {
+      "A": "Liberté, Égalité, Fraternité",
+      "B": "Unité, Travail, Progrès",
+      "C": "Force, Honneur, Patrie",
+      "D": "Paix, Amour, Justice"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel organe est responsable de la production d'insuline ?",
+    "options": {
+      "A": "Le pancréas",
+      "B": "Le foie",
+      "C": "La thyroïde",
+      "D": "Les reins"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la vitesse approximative de la lumière dans le vide ?",
+    "options": {
+      "A": "300 000 km/s",
+      "B": "150 000 km/s",
+      "C": "100 000 km/s",
+      "D": "1 000 000 km/s"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est l'organe principal du système nerveux central ?",
+    "options": {
+      "A": "Le cerveau",
+      "B": "La moelle épinière",
+      "C": "Les nerfs périphériques",
+      "D": "Le cœur"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le principal composant de l'air que nous respirons ?",
+    "options": {
+      "A": "L'azote",
+      "B": "L'oxygène",
+      "C": "Le dioxyde de carbone",
+      "D": "L'argon"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale de la Russie ?",
+    "options": {
+      "A": "Moscou",
+      "B": "Saint-Pétersbourg",
+      "C": "Kazan",
+      "D": "Novossibirsk"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel événement historique s'est produit le 11 septembre 2001 ?",
+    "options": {
+      "A": "Les attentats aux États-Unis",
+      "B": "La chute du mur de Berlin",
+      "C": "La signature du traité de Maastricht",
+      "D": "Le lancement de l'euro"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a fondé l'Empire mongol ?",
+    "options": {
+      "A": "Gengis Khan",
+      "B": "Tamerlan",
+      "C": "Attila le Hun",
+      "D": "Kublai Khan"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel discours célèbre de Martin Luther King Jr. a marqué la lutte pour les droits civiques ?",
+    "options": {
+      "A": "I Have a Dream",
+      "B": "We Shall Overcome",
+      "C": "Give Peace a Chance",
+      "D": "The Ballot or the Bullet"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "En quelle année le mur de Berlin est-il tombé ?",
+    "options": {
+      "A": "1989",
+      "B": "1990",
+      "C": "1991",
+      "D": "1987"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui est l'auteur de 'Le Rouge et le Noir' ?",
+    "options": {
+      "A": "Stendhal",
+      "B": "Honoré de Balzac",
+      "C": "Victor Hugo",
+      "D": "Gustave Flaubert"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la langue principale parlée au Brésil ?",
+    "options": {
+      "A": "Le portugais",
+      "B": "L'espagnol",
+      "C": "L'anglais",
+      "D": "Le français"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays d'Amérique du Sud est le plus grand en superficie ?",
+    "options": {
+      "A": "Le Brésil",
+      "B": "L'Argentine",
+      "C": "La Colombie",
+      "D": "Le Pérou"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel festival de cinéma se tient chaque année à Cannes ?",
+    "options": {
+      "A": "Le Festival de Cannes",
+      "B": "Le Festival du Film de Berlin",
+      "C": "Le Festival de Venise",
+      "D": "Le Festival de Sundance"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Cyrano de Bergerac' ?",
+    "options": {
+      "A": "Edmond Rostand",
+      "B": "Molière",
+      "C": "Victor Hugo",
+      "D": "Alexandre Dumas"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le plus grand lac d'eau douce du monde en volume ?",
+    "options": {
+      "A": "Le lac Baïkal",
+      "B": "Le lac Supérieur",
+      "C": "Le lac Victoria",
+      "D": "Le lac Tanganyika"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale du Canada ?",
+    "options": {
+      "A": "Ottawa",
+      "B": "Toronto",
+      "C": "Montréal",
+      "D": "Vancouver"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel métal est principalement utilisé pour fabriquer les câbles électriques ?",
+    "options": {
+      "A": "Le cuivre",
+      "B": "L'aluminium",
+      "C": "Le fer",
+      "D": "L'or"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Les Fables' ?",
+    "options": {
+      "A": "Jean de La Fontaine",
+      "B": "Molière",
+      "C": "Victor Hugo",
+      "D": "Voltaire"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel mouvement littéraire est associé à Marcel Proust ?",
+    "options": {
+      "A": "Le modernisme",
+      "B": "Le romantisme",
+      "C": "Le réalisme",
+      "D": "Le symbolisme"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays est le plus grand producteur de vin en volume ?",
+    "options": {
+      "A": "La France",
+      "B": "L'Italie",
+      "C": "L'Espagne",
+      "D": "Les États-Unis"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Comment appelle-t-on la période de prospérité économique en France après la Seconde Guerre mondiale ?",
+    "options": {
+      "A": "Les Trente Glorieuses",
+      "B": "Les Quarante Glorieuses",
+      "C": "Les Vingt Glorieuses",
+      "D": "Les Dix Glorieuses"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel roman de Marcel Proust est célèbre pour son exploration de la mémoire involontaire ?",
+    "options": {
+      "A": "À la recherche du temps perdu",
+      "B": "Du côté de chez Swann",
+      "C": "Le Temps retrouvé",
+      "D": "La Prisonnière"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays a accueilli les Jeux Olympiques d'été en 2016 ?",
+    "options": {
+      "A": "Le Brésil",
+      "B": "La Chine",
+      "C": "Le Royaume-Uni",
+      "D": "La Grèce"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui est considéré comme l'inventeur du microscope ?",
+    "options": {
+      "A": "Zacharias Janssen",
+      "B": "Antonie van Leeuwenhoek",
+      "C": "Galilée",
+      "D": "Robert Hooke"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la capitale du Portugal ?",
+    "options": {
+      "A": "Lisbonne",
+      "B": "Porto",
+      "C": "Coimbra",
+      "D": "Faro"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a peint 'Le Cri' ?",
+    "options": {
+      "A": "Edvard Munch",
+      "B": "Vincent van Gogh",
+      "C": "Pablo Picasso",
+      "D": "Salvador Dalí"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel opéra de Verdi raconte l'histoire de la lutte pour la liberté ?",
+    "options": {
+      "A": "Nabucco",
+      "B": "Aida",
+      "C": "La Traviata",
+      "D": "Rigoletto"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel organe est principalement responsable de la vision ?",
+    "options": {
+      "A": "L'œil",
+      "B": "Le cerveau",
+      "C": "Le nerf optique",
+      "D": "La rétine"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel volcan actif est le plus grand du monde ?",
+    "options": {
+      "A": "Le Mauna Loa",
+      "B": "Le Vésuve",
+      "C": "Le Mont Saint Helens",
+      "D": "L'Etna"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel scientifique a découvert la radioactivité ?",
+    "options": {
+      "A": "Henri Becquerel",
+      "B": "Marie Curie",
+      "C": "Pierre Curie",
+      "D": "Albert Einstein"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel mouvement littéraire prône la rupture avec les traditions et l'expression spontanée ?",
+    "options": {
+      "A": "Le surréalisme",
+      "B": "Le romantisme",
+      "C": "Le réalisme",
+      "D": "Le symbolisme"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Discours de la servitude volontaire' ?",
+    "options": {
+      "A": "Étienne de La Boétie",
+      "B": "Voltaire",
+      "C": "Jean-Jacques Rousseau",
+      "D": "Montesquieu"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quelle est la formule chimique du sel de table ?",
+    "options": {
+      "A": "NaCl",
+      "B": "KCl",
+      "C": "Na2SO4",
+      "D": "CaCO3"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel festival de musique se tient à Glastonbury, au Royaume-Uni ?",
+    "options": {
+      "A": "Glastonbury Festival",
+      "B": "Coachella",
+      "C": "Lollapalooza",
+      "D": "Tomorrowland"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel pays asiatique est réputé pour ses temples bouddhistes et sa cuisine épicée ?",
+    "options": {
+      "A": "La Thaïlande",
+      "B": "Le Japon",
+      "C": "La Corée du Sud",
+      "D": "La Chine"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel roman dystopique de Ray Bradbury dépeint une société où les livres sont interdits ?",
+    "options": {
+      "A": "Fahrenheit 451",
+      "B": "1984",
+      "C": "Le Meilleur des mondes",
+      "D": "La Servante écarlate"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel instrument de musique est emblématique du jazz ?",
+    "options": {
+      "A": "Le saxophone",
+      "B": "La guitare électrique",
+      "C": "Le piano",
+      "D": "La batterie"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel dramaturge grec est célèbre pour ses tragédies, notamment 'Œdipe Roi' ?",
+    "options": {
+      "A": "Eschyle",
+      "B": "Sophocle",
+      "C": "Euripide",
+      "D": "Aristophane"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Quelle est la capitale de l'Autriche ?",
+    "options": {
+      "A": "Vienne",
+      "B": "Salzbourg",
+      "C": "Innsbruck",
+      "D": "Graz"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel océan borde la côte ouest des États-Unis ?",
+    "options": {
+      "A": "L'océan Pacifique",
+      "B": "L'océan Atlantique",
+      "C": "L'océan Indien",
+      "D": "L'océan Arctique"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est l'hymne national français ?",
+    "options": {
+      "A": "La Marseillaise",
+      "B": "Le Chant du départ",
+      "C": "La Parisienne",
+      "D": "Le Temps des cerises"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui est l'explorateur qui a découvert l'Amérique en 1492 ?",
+    "options": {
+      "A": "Christophe Colomb",
+      "B": "Ferdinand Magellan",
+      "C": "Vasco de Gama",
+      "D": "Amerigo Vespucci"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Qui a écrit 'Les Liaisons dangereuses' ?",
+    "options": {
+      "A": "Pierre Choderlos de Laclos",
+      "B": "Honoré de Balzac",
+      "C": "Gustave Flaubert",
+      "D": "Alexandre Dumas"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel scientifique est célèbre pour ses lois du mouvement ?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galilée",
+      "D": "Johannes Kepler"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le plus grand satellite naturel de la Terre ?",
+    "options": {
+      "A": "La Lune",
+      "B": "Mars",
+      "C": "Vénus",
+      "D": "Mercure"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel stade de football européen a la plus grande capacité ?",
+    "options": {
+      "A": "Camp Nou",
+      "B": "Wembley",
+      "C": "Signal Iduna Park",
+      "D": "San Siro"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Quel est le principal objectif de la politique de développement durable ?",
+    "options": {
+      "A": "Assurer un équilibre entre croissance économique, justice sociale et protection de l'environnement",
+      "B": "Favoriser la croissance économique à tout prix",
+      "C": "Réduire les impôts pour stimuler l'investissement",
+      "D": "Renforcer les barrières commerciales"
+    },
+    "correct": "A"
+  }
+]

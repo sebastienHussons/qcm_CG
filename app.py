@@ -3656,10 +3656,21 @@ qcm2024 = [
 
 
 
-# Charger le fichier JSON externe
-qcm_file_path = "qcm_100_questions.json"
-with open(qcm_file_path, "r", encoding="utf-8") as file:
-    qcm_100_questions = json.load(file)
+# Charger les fichiers JSON externes
+qcm_file_path_1 = "qcm_100_questions.json"
+qcm_file_path_2 = "qcm_2_GPT_100.json"
+
+try:
+    with open(qcm_file_path_1, "r", encoding="utf-8") as file:
+        qcm_100_questions = json.load(file)
+except FileNotFoundError:
+    qcm_100_questions = []
+
+try:
+    with open(qcm_file_path_2, "r", encoding="utf-8") as file:
+        qcm2_100_questions = json.load(file)
+except FileNotFoundError:
+    qcm2_100_questions = []
 
 # Définition des QCM existants
 qcm_collection = {
@@ -3667,7 +3678,8 @@ qcm_collection = {
     "QCM 2022": qcm2022,
     "QCM 2023": qcm2023,
     "QCM 2024": qcm2024,
-    "QCM Supplémentaire": qcm_100_questions
+    "QCM Supplémentaire 1": qcm_100_questions,
+    "QCM Supplémentaire 2": qcm2_100_questions
 }
 
 # Interface Streamlit
