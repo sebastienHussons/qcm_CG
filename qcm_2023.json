@@ -1,5 +1,4 @@
-# QCM 2023 et QCM 2024 (exemples minimaux, à compléter)
-qcm2023 = [
+[
   {
     "question": "1. En musique, la double croche vaut :",
     "options": {
