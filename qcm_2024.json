@@ -1,0 +1,1034 @@
+qcm2024 = [
+    {
+        "question": "1. On trouve le canal carpien :",
+        "options": {
+            "A": "à la frontière de la Hongrie et de la Roumanie",
+            "B": "au niveau du poignet de l'être humain",
+            "C": "sur la face cachée de la lune",
+            "D": "en entrée de certaines nasses utilisées par des pêcheurs en eaux douces"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "2. Une sensibilisation particulière au cancer du sein a lieu chaque année en :",
+        "options": {
+            "A": "novembre",
+            "B": "janvier",
+            "C": "octobre",
+            "D": "mai"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "3. Le prix Goncourt 2023 a été décerné à :",
+        "options": {
+            "A": "Jean-Baptiste Andrea",
+            "B": "Jean-Baptiste Poquelin",
+            "C": "Camille Andrea",
+            "D": "Jean-Louis Fournier"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "4. Lequel de ces pays n'a pas de frontière commune avec l'Arménie ?",
+        "options": {
+            "A": "La Géorgie",
+            "B": "L'Azerbaïdjan",
+            "C": "L'Iran",
+            "D": "Le Turkménistan"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "5. Le film \"Imitation Game\", sorti en 2014, retrace la vie du scientifique :",
+        "options": {
+            "A": "Robert Oppenheimer",
+            "B": "John Charles Fields",
+            "C": "Alan Turing",
+            "D": "Leonhard Euler"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "6. La droséra est :",
+        "options": {
+            "A": "une plante carnivore",
+            "B": "une variété de mouche",
+            "C": "une danse sud-américaine",
+            "D": "un manteau"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "7. Le mouvement Movember, Mouvembre ou novembre bleu au profit de la recherche sur les maladies masculines voit chaque année des hommes :",
+        "options": {
+            "A": "se laisser pousser la moustache",
+            "B": "défiler déguisés",
+            "C": "s'épiler",
+            "D": "porter uniquement des boxers en guise de sous-vêtement"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "8. Porté à l'écran en 2023 par Ridley Scott, l'empereur Napoléon Ier est décédé à :",
+        "options": {
+            "A": "Sainte-Soline",
+            "B": "Sainte-Hélène",
+            "C": "Saintes-Maries-de-la-Mer",
+            "D": "Sainte-Sophie"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "9. La capitale de la Turquie est :",
+        "options": {
+            "A": "Istanbul",
+            "B": "Ankara",
+            "C": "Constantinople",
+            "D": "Byzance"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "10. Laquelle de ces appellations de vin n'est pas située en Gironde :",
+        "options": {
+            "A": "Pomerol",
+            "B": "Gigondas",
+            "C": "Pauillac",
+            "D": "Entre-deux-Mer"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "11. De quelle région française est originaire le tourteau fromagé ?",
+        "options": {
+            "A": "La Bourgogne",
+            "B": "L'Auvergne",
+            "C": "Le Poitou",
+            "D": "La Touraine",
+            "E": "La Normandie"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "12. Laquelle de ces villes est implantée dans la bande de Gaza ?",
+        "options": {
+            "A": "Khan Younes",
+            "B": "Djenin",
+            "C": "Hébron",
+            "D": "Ramallah"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "13. La commune d'Hondschoote est :",
+        "options": {
+            "A": "belge",
+            "B": "française",
+            "C": "néerlandaise",
+            "D": "luxembourgeoise"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "14. En 2023, le ministre des Affaires étrangères de la fédération de Russie se nomme :",
+        "options": {
+            "A": "Alexandre Gortchakov",
+            "B": "Sergueï Lavrov",
+            "C": "Evgueni Zinitchev",
+            "D": "Dimitri Medvedev",
+            "E": "Vladimir Ilitch Oulianov"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "15. Une équipe de beach handball est composée de :",
+        "options": {
+            "A": "7 joueurs",
+            "B": "11 joueurs",
+            "C": "4 joueurs",
+            "D": "5 joueurs",
+            "E": "3 joueurs"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "16. La valeur de Pi commence par :",
+        "options": {
+            "A": "3,141",
+            "B": "3,529",
+            "C": "3,314",
+            "D": "3,014",
+            "E": "3,151"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "17. Laquelle de ces plantes n'est pas une graminée :",
+        "options": {
+            "A": "le roseau",
+            "B": "le bambou",
+            "C": "l'orge",
+            "D": "le ginkgo"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "18. Qui a écrit « La véritable école du commandement est la culture générale. Au fond des victoires d'Alexandre, on retrouve toujours Aristote. » ?",
+        "options": {
+            "A": "Charles De Gaulle",
+            "B": "Blaise Pascal",
+            "C": "Honoré de Balzac",
+            "D": "Napoléon Ier"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "19. Le nouveau véhicule blindé de la gendarmerie est baptisé :",
+        "options": {
+            "A": "la dracène",
+            "B": "le centaure",
+            "C": "le pangolin",
+            "D": "la limule",
+            "E": "le minotaure"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "20. Qui a peint le tableau « L'origine du monde » ?",
+        "options": {
+            "A": "Gustave Courbet",
+            "B": "Julien Courbet",
+            "C": "Julien Courbey",
+            "D": "Gustave Boulanger",
+            "E": "Louis Boulanger"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "21. Que veut dire RSE pour une entreprise ?",
+        "options": {
+            "A": "Responsabilité Sociétale des Entreprises",
+            "B": "Ressource Spécialisée d'Emplois",
+            "C": "Revenu Spécifique Équitable"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "22. Quelle est la date du premier choc pétrolier ?",
+        "options": {
+            "A": "Mai à juin 1968",
+            "B": "Mars à mai 1971",
+            "C": "Octobre 1973 à mars 1974"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "23. À qui doit-on l'expression « les Trente glorieuses » ?",
+        "options": {
+            "A": "Jacques Attali",
+            "B": "Jean Fourastié",
+            "C": "John Rawls",
+            "D": "Thomas Malthus"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "24. Quel auteur a écrit en 1992 « La fin de l'histoire », théorisant que la démocratie libérale comme idéologie dominante, annonçait la forme finale de tout gouvernement humain ?",
+        "options": {
+            "A": "Samuel Huntington",
+            "B": "Francis Fukuyama",
+            "C": "John Mearsheimer",
+            "D": "James Oscar Mc Kinsey"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "25. Jusqu'au début de l'ère du Jurassique, les terres émergées ne formaient qu'un seul bloc, un supercontinent nommé :",
+        "options": {
+            "A": "Le Laurasia",
+            "B": "Le Gondwana",
+            "C": "La Pangée",
+            "D": "L'Atlantide"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "26. Aux États-Unis, le premier président fut :",
+        "options": {
+            "A": "George Washington",
+            "B": "Thomas Jefferson",
+            "C": "John Adams",
+            "D": "James Madison"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "27. Les Bourbons constituent la dernière des cinq dynasties de monarques français. Quelle était la première ?",
+        "options": {
+            "A": "Carolingienne",
+            "B": "Mérovingienne",
+            "C": "Capétienne",
+            "D": "Valois"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "28. Parmi les cinq propositions suivantes, se trouvent quatre institutions et une agence. Quelle est l'agence ?",
+        "options": {
+            "A": "Le Parlement Européen",
+            "B": "Europol",
+            "C": "Le Conseil Européen",
+            "D": "Le Conseil de l'Union Européenne",
+            "E": "La Commission Européenne"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "29. Parmi ces bandes dessinées à succès mondial, quelle est celle la plus vendue au monde toutes périodes confondues ?",
+        "options": {
+            "A": "Tintin",
+            "B": "One Piece",
+            "C": "Astérix",
+            "D": "Dragon Ball"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "30. Quel grand mathématicien a établi en 1900 la liste des 23 problèmes majeurs, dont un tiers ne sont toujours pas résolus ?",
+        "options": {
+            "A": "David Hilbert",
+            "B": "Henri Poincaré",
+            "C": "Carl Friedrich Gauss",
+            "D": "Kurt Gödel"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "31. En quelle année a été assassiné John Fitzgerald Kennedy ?",
+        "options": {
+            "A": "1962",
+            "B": "1964",
+            "C": "1963",
+            "D": "1965"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "32. Qui a éliminé la France en quart de finale de la coupe du monde de Rugby en 2023 ?",
+        "options": {
+            "A": "L'Irlande",
+            "B": "La Nouvelle-Zélande",
+            "C": "L'Angleterre",
+            "D": "L'Afrique du Sud"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "33. Parmi les mots suivants, lequel n'est pas un palindrome ?",
+        "options": {
+            "A": "comme",
+            "B": "Anna",
+            "C": "ici",
+            "D": "ressasser"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "34. Parmi ces zones de défense, laquelle comprend une seule région ?",
+        "options": {
+            "A": "Sud",
+            "B": "Sud-ouest",
+            "C": "Ouest"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "35. Une feuille format A4 correspond à :",
+        "options": {
+            "A": "deux feuilles de format A3",
+            "B": "deux feuilles de format A6",
+            "C": "le quart d'une feuille de format A2",
+            "D": "le quart d'une feuille de format A1"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "36. Quel supplice est imposé à Tantale ?",
+        "options": {
+            "A": "Pousser indéfiniment une roche au sommet d'une montagne",
+            "B": "Être dévoré sans cesse par un vautour",
+            "C": "Vivre enfermé dans le labyrinthe",
+            "D": "Subir la faim et la soif éternellement, incapable de saisir le moindre vivre"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "37. Quel bâtiment officiel a été pris d'assaut par des militants républicains américains en janvier 2021 ?",
+        "options": {
+            "A": "Le Lincoln Memorial",
+            "B": "Le Pentagone",
+            "C": "La Maison Blanche",
+            "D": "Le Capitole"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "38. Au cours de la première guerre mondiale, quels pays constituent la Triple Entente ?",
+        "options": {
+            "A": "France / États-Unis / Royaume-Uni",
+            "B": "France / Russie / Royaume-Uni",
+            "C": "Autriche-Hongrie / Allemagne / Italie",
+            "D": "France / Royaume-Uni / Italie",
+            "E": "Allemagne / Autriche-Hongrie / Empire ottoman"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "39. Parmi les propositions suivantes, laquelle ne fait pas référence à l'un des douze travaux d'Hercule ?",
+        "options": {
+            "A": "Les écuries d'Augias",
+            "B": "La ceinture de la reine des Amazones",
+            "C": "Le chien Cerbère des Enfers",
+            "D": "Le labyrinthe du Minotaure",
+            "E": "Le lion de Némée"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "40. Dans quel département métropolitain se déroule tous les ans en juillet, depuis 30 ans, le festival des Vieilles Charrues ?",
+        "options": {
+            "A": "Le Morbihan",
+            "B": "La Vendée",
+            "C": "Les Côtes d'Armor",
+            "D": "Le Finistère",
+            "E": "Les Pays de la Loire"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "41. Où s'est déroulée la 28e conférence mondiale sur le climat (COP28), du 30 novembre au 12 décembre 2023 ?",
+        "options": {
+            "A": "Riyad",
+            "B": "Doha",
+            "C": "Abu Dhabi",
+            "D": "Dubaï"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "42. Quelle a été la dernière personnalité à entrer au Panthéon, le 30 novembre 2021 ?",
+        "options": {
+            "A": "Joséphine Baker",
+            "B": "Simone Veil",
+            "C": "Alexandre Dumas",
+            "D": "André Malraux"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "43. Comment se nomme la dernière mission de l'astronaute français Thomas Pesquet ?",
+        "options": {
+            "A": "Bêta",
+            "B": "Proxima",
+            "C": "Alpha",
+            "D": "Omega",
+            "E": "Crew-2 Endeavour"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "44. Quel club de football féminin a été sacré champion d'Europe le 3 juin 2023 ?",
+        "options": {
+            "A": "Équipe féminine de l'Olympique Lyonnais",
+            "B": "Fútbol Club Barcelona Femenino",
+            "C": "VfL Wolsburg",
+            "D": "Chelsea Football Club Women"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "45. Le 10 septembre 1960, à Nantes, le Général de Gaulle qualifie une organisation internationale de \"machin\". De quelle organisation parlait-il ?",
+        "options": {
+            "A": "L'ONU",
+            "B": "L'OTAN",
+            "C": "L'OCDE",
+            "D": "L'OMS"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "46. Dans quel domaine les Français Pierre Agostini et Anne L'Huillier ont-ils reçu un prix Nobel en 2023 ?",
+        "options": {
+            "A": "Physique",
+            "B": "Chimie",
+            "C": "Économie",
+            "D": "Médecine"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "47. Depuis sa création en 1993, quel port a toujours accueilli le départ de la Transat Jacques Vabre, également appelée Route du café ?",
+        "options": {
+            "A": "La Rochelle",
+            "B": "Nantes",
+            "C": "Saint-Nazaire",
+            "D": "Le Havre"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "48. Dans quel pays actuel était située la cité antique de Troie ?",
+        "options": {
+            "A": "Grèce",
+            "B": "Italie",
+            "C": "Turquie",
+            "D": "Macédoine du Nord"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "49. À quelle date la flamme du Soldat Inconnu a-t-elle été allumée pour la première fois ?",
+        "options": {
+            "A": "31 décembre 1918",
+            "B": "11 novembre 1923",
+            "C": "31 décembre 1936",
+            "D": "11 novembre 1945"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "50. Quel pharaon est surnommé le « roi des rois » ?",
+        "options": {
+            "A": "Ramsès II",
+            "B": "Khéops",
+            "C": "Toutânkhamon",
+            "D": "Aménophis IV"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "51. À quelle ville fait référence le peintre espagnol Pablo Picasso dans son célèbre tableau \"Les Demoiselles d'Avignon\" ?",
+        "options": {
+            "A": "Avignon",
+            "B": "Barcelone",
+            "C": "Marseille",
+            "D": "Saragosse"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "52. Où se déroule l'histoire de Roméo et Juliette, tragédie écrite par William Shakespeare entre 1591 et 1595 ?",
+        "options": {
+            "A": "Naples",
+            "B": "Venise",
+            "C": "Bergame",
+            "D": "Vérone"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "53. Laquelle de ces civilisations avait sa capitale dans l'actuel Pérou ?",
+        "options": {
+            "A": "Les Incas",
+            "B": "Les Mayas",
+            "C": "Les Aztèques",
+            "D": "Les Olmèques"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "54. À quel texte appartient l'article 11 suivant : \"La libre communication des pensées et des opinions est un des droits les plus précieux de l'homme : tout citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.\"",
+        "options": {
+            "A": "La déclaration universelle des droits de l'Homme (1948)",
+            "B": "La déclaration des Droits de l'Homme et du Citoyen (1789)",
+            "C": "Les quatre Conventions de Genève (1949)",
+            "D": "Les deux protocoles additionnels aux Conventions de Genève (1977)"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "55. En quelle année sont programmées les prochaines élections législatives en France ?",
+        "options": {
+            "A": "2025",
+            "B": "2026",
+            "C": "2027",
+            "D": "2028"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "56. En quelle année a été commercialisée pour la première fois la poupée Barbie ?",
+        "options": {
+            "A": "1953",
+            "B": "1959",
+            "C": "1963",
+            "D": "1969"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "57. Dans quel pays est né le physicien Julius Robert Oppenheimer le 22 avril 1904 et surnommé le \"père de la bombe atomique\" ?",
+        "options": {
+            "A": "Allemagne",
+            "B": "Autriche",
+            "C": "États-Unis",
+            "D": "Pays-Bas"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "58. Laquelle de ces batailles napoléoniennes est communément appelée la \"bataille des trois Empereurs\" ?",
+        "options": {
+            "A": "Wagram",
+            "B": "Friedland",
+            "C": "Austerlitz",
+            "D": "Iéna"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "59. Laquelle de ces œuvres n'est pas de Jean Racine (1639 - 1699) ?",
+        "options": {
+            "A": "Andromaque",
+            "B": "Britannicus",
+            "C": "Phèdre",
+            "D": "Horace"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "60. Lequel de ces rois de France épousa Catherine de Médicis le 28 octobre 1533 puis succéda à son père François Ier sur le trône en 1547 ?",
+        "options": {
+            "A": "Louis XII",
+            "B": "François II",
+            "C": "Charles IX",
+            "D": "Henri II"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "61. Le Conseil constitutionnel français est composé de neuf membres. Pour combien d'années sont-ils nommés ?",
+        "options": {
+            "A": "4 ans",
+            "B": "5 ans",
+            "C": "7 ans",
+            "D": "9 ans"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "62. Qui est l'auteur du roman \"La Guerre des mondes\", adapté au cinéma par Steven Spielberg ?",
+        "options": {
+            "A": "Aldous Huxley",
+            "B": "Herbert George Wells",
+            "C": "Jack London",
+            "D": "Jules Verne",
+            "E": "Bernard Werber"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "63. Quelle est l'auteure de l'heptalogie Harry Potter ?",
+        "options": {
+            "A": "Cressida Cowell",
+            "B": "J. K. Rowling",
+            "C": "Babette Cole",
+            "D": "Karen Traviss",
+            "E": "P. D. James"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "64. Dans quelle ville allemande ont été jugés 24 des principaux responsables du IIIe Reich accusés de complot, crimes contre la paix, crimes de guerre et crimes contre l'humanité ?",
+        "options": {
+            "A": "Munich",
+            "B": "Weimar",
+            "C": "Berlin",
+            "D": "Nuremberg",
+            "E": "Aix-la-Chapelle"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "65. Dans quelle ville métropolitaine le festival international de la bande dessinée a-t-il lieu tous les ans ?",
+        "options": {
+            "A": "Poitiers",
+            "B": "Nantes",
+            "C": "Angoulême",
+            "D": "La Rochelle",
+            "E": "Bourges"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "66. Parmi ces peintres, lequel n'a pas fait partie de l'impressionnisme ?",
+        "options": {
+            "A": "Edgar Degas",
+            "B": "Claude Monet",
+            "C": "Auguste Renoir",
+            "D": "Henri Matisse",
+            "E": "Camille Pissaro"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "67. Qui a peint « Les Noces de Cana » ?",
+        "options": {
+            "A": "Jacopo Robusti, dit Le Tintoret",
+            "B": "Paulo Caliari, dit Véronèse",
+            "C": "Antonio Allegri da Corregio, dit Le Corrège",
+            "D": "Tiziano Vecellio, dit Le Titien",
+            "E": "Dominikos Theotokopoulos, dit Le Greco"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "68. Laquelle de ces planètes est la plus éloignée du soleil ?",
+        "options": {
+            "A": "Vénus",
+            "B": "Neptune",
+            "C": "Saturne",
+            "D": "Uranus",
+            "E": "Jupiter"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "69. Aux États-Unis, quelles villes la mythique « route 66 » reliait-elle entre les années 1926 et 1985 ?",
+        "options": {
+            "A": "New York (New York) à Santa Barbara (Californie)",
+            "B": "Boston (Massachusetts) à Los Angeles (Californie)",
+            "C": "Chicago (Illinois) à Santa Monica (Californie)",
+            "D": "Détroit (Michigan) à Long Beach (Californie)",
+            "E": "Miami (Floride) à San Diego (Californie)"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "70. Combien d'années la guerre de Cent ans a-t-elle duré ?",
+        "options": {
+            "A": "94 ans",
+            "B": "101 ans",
+            "C": "107 ans",
+            "D": "116 ans",
+            "E": "123 ans"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "71. Quelle est la première femme à avoir été inhumée au Panthéon ?",
+        "options": {
+            "A": "Joséphine Baker",
+            "B": "Geneviève de Gaulle-Anthonioz",
+            "C": "Simone Veil",
+            "D": "Marie Curie"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "72. Dans le film « Les Visiteurs » de Jean-Marie Poiré, sorti en 1993, de quel roi français le comte Godefroy de Montmirail est-il le capitaine ?",
+        "options": {
+            "A": "Philippe II",
+            "B": "Hugues",
+            "C": "Jean Ier",
+            "D": "Robert II",
+            "E": "Louis VI"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "73. Lequel de ces réseaux sociaux n'appartient pas à l'entreprise Meta ?",
+        "options": {
+            "A": "Instagram",
+            "B": "Facebook",
+            "C": "Snapchat",
+            "D": "WhatsApp"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "74. La CEE est considérée comme l'ancêtre de l'Union européenne. Que signifient ses initiales ?",
+        "options": {
+            "A": "Le conseil européen élargi",
+            "B": "La communauté économique européenne",
+            "C": "La confédération économique européenne",
+            "D": "La commission d'entraide européenne"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "75. Qui a été le premier Premier ministre de la Ve République ?",
+        "options": {
+            "A": "Georges Pompidou",
+            "B": "Charles de Gaulle",
+            "C": "Michel Poniatowski",
+            "D": "Michel Debré"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "76. Parmi les propositions suivantes, laquelle ne fait pas partie du tableau des éléments périodiques ?",
+        "options": {
+            "A": "Le bronze",
+            "B": "Le zinc",
+            "C": "Le platine",
+            "D": "L'étain"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "77. Hélène Carrère d'Encausse est décédée en août 2023. De quelle institution occupait-elle le poste de secrétaire perpétuelle ?",
+        "options": {
+            "A": "L'Institut de France",
+            "B": "Le Conseil constitutionnel",
+            "C": "L'Académie française",
+            "D": "L'Académie des beaux-arts"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "78. Que représente « La Cène », célèbre tableau de Léonard de Vinci ?",
+        "options": {
+            "A": "La trahison de Judas",
+            "B": "Le dernier repas du Christ",
+            "C": "La crucifixion de Jésus",
+            "D": "La rupture du jeûne du Ramadan"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "79. Lequel de ces navires est responsable d'une importante marée noire sur les côtes françaises ?",
+        "options": {
+            "A": "Baraka",
+            "B": "Monika",
+            "C": "Erika",
+            "D": "Annika",
+            "E": "Jessika"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "80. L'école des officiers de la gendarmerie nationale se situe à :",
+        "options": {
+            "A": "Paris",
+            "B": "Libourne",
+            "C": "Melun",
+            "D": "Cannes-Écluse",
+            "E": "Saint-Cyr-l'École"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "81. Complétez cette citation de Charles de Gaulle : « La France ne peut être la France sans... » :",
+        "options": {
+            "A": "Ses colonies",
+            "B": "L'Alsace et la Lorraine",
+            "C": "La grandeur",
+            "D": "La gloire de ses armées"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "82. Maurice Druon est l'auteur de la suite romanesque :",
+        "options": {
+            "A": "Le trône de fer",
+            "B": "Les rois maudits",
+            "C": "Les piliers de la Terre",
+            "D": "Les Rougon Macquart"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "83. Quel physicien a donné son nom au principe d'indétermination (également dit principe d'incertitude) en mécanique quantique ?",
+        "options": {
+            "A": "Eisenstein",
+            "B": "Eisenhower",
+            "C": "Heisenberg",
+            "D": "Einstein"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "84. Quel est l'autre nom de la Birmanie ?",
+        "options": {
+            "A": "Ceylan",
+            "B": "Myanmar",
+            "C": "Sri Lanka",
+            "D": "Bangladesh"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "85. Que signifie l'acronyme TAAF ?",
+        "options": {
+            "A": "Terres australes et arctiques françaises",
+            "B": "Terres arctiques et antarctiques françaises",
+            "C": "Terres australes et antarctiques françaises",
+            "D": "Territoires arctiques et ancestrales françaises"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "86. Qui a fondé le scoutisme ?",
+        "options": {
+            "A": "Baden-Powell",
+            "B": "Philippe Chatrier",
+            "C": "Pierre de Coubertin",
+            "D": "Sœur Emmanuel",
+            "E": "L'Abbé Pierre"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "87. Quels besoins apparaissent au sommet de la pyramide de Maslow ?",
+        "options": {
+            "A": "Les besoins d'appartenance et d'amour",
+            "B": "Les besoins d'accomplissement de soi",
+            "C": "Les besoins d'estime",
+            "D": "Les besoins physiologiques",
+            "E": "Les besoins de sécurité"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "88. En quelle année a été votée l'abolition de la peine de mort en France ?",
+        "options": {
+            "A": "1981",
+            "B": "1968",
+            "C": "1989",
+            "D": "1980",
+            "E": "1990"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "89. Claude Monet est un peintre français connu pour sa série de toiles intitulée « Les Nymphéas », représentant le jardin de fleurs de sa maison de Giverny. À quel mouvement pictural appartient-il ?",
+        "options": {
+            "A": "Le surréalisme",
+            "B": "L'impressionnisme",
+            "C": "Le cubisme",
+            "D": "L'Art Nouveau",
+            "E": "Le symbolisme"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "90. Quel événement tragique, survenu en 1897 et faisant plus de 100 victimes, est à l'origine des premières réglementations modernes de prévention contre le risque incendie dans les établissements recevant du public ?",
+        "options": {
+            "A": "L'attaque du Bon Marché",
+            "B": "L'incendie du théâtre de la Comédie française",
+            "C": "Le séisme de Lambesc",
+            "D": "L'incendie du Bazar de la Charité"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "91. Dans quelle ville est située le siège du Parlement européen ?",
+        "options": {
+            "A": "Genève",
+            "B": "Bruxelles",
+            "C": "Strasbourg",
+            "D": "Luxembourg",
+            "E": "Zurich"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "92. Qui a écrit « L'art de la guerre » ?",
+        "options": {
+            "A": "Sun Tzu",
+            "B": "Mao Zedong",
+            "C": "Genghis Khan",
+            "D": "Xi Jinping",
+            "E": "Liu Xiaobo"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "93. Qui a peint \"Le jugement dernier\" de la chapelle Sixtine à Rome ?",
+        "options": {
+            "A": "Léonard de Vinci",
+            "B": "Raphaël",
+            "C": "Michel-Ange",
+            "D": "Botticelli",
+            "E": "Arcimboldo"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "94. En vertu de l'article 15 de la Constitution du 4 octobre 1958, qui est le chef des armées ?",
+        "options": {
+            "A": "Le président de la République",
+            "B": "Le chef d'état-major des armées",
+            "C": "Le Premier ministre",
+            "D": "Le président de l'Assemblée nationale",
+            "E": "Le président du Sénat"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "95. La gendarmerie nationale a été créée le :",
+        "options": {
+            "A": "14 juillet 1789",
+            "B": "16 février 1791",
+            "C": "1er janvier 1800",
+            "D": "17 avril 1798",
+            "E": "23 octobre 1812"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "96. La gendarmerie est placée sous le patronage de :",
+        "options": {
+            "A": "Sainte Geneviève",
+            "B": "Saint Michel",
+            "C": "Sainte Odile",
+            "D": "Sainte Cécile",
+            "E": "Saint Georges"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "97. L'Amour est un fleuve qui traverse deux pays :",
+        "options": {
+            "A": "L'Espagne et le Portugal",
+            "B": "La Russie et la Pologne",
+            "C": "La Russie et la Chine",
+            "D": "La Russie et le Kazakhstan"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "98. Quelle région autonome chinoise est majoritairement peuplée d'Ouïghours, peuple turcophone et musulman sunnite ?",
+        "options": {
+            "A": "Tibet",
+            "B": "Xinjiang",
+            "C": "Mongolie intérieure",
+            "D": "Guangxi"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "99. Quelle est la préfecture la moins peuplée de France ?",
+        "options": {
+            "A": "Foix",
+            "B": "Guéret",
+            "C": "Mende",
+            "D": "Privas"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "100. Sous quel nom connaît-on le palais impérial de Pékin ?",
+        "options": {
+            "A": "La Maison Rouge",
+            "B": "Le Fort de Baoji",
+            "C": "La Cité interdite",
+            "D": "Le Temple Suprême"
+        },
+        "correct": "C"
+    }
+
+
+]
