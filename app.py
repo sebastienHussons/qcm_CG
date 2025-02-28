@@ -3655,22 +3655,23 @@ qcm2024 = [
 ]
 
 
-
 # Charger les fichiers JSON externes
-qcm_file_path_1 = "qcm_100_questions.json"
-qcm_file_path_2 = "qcm_2_GPT_100.json"
+qcm_file_path_1 = "/mnt/data/qcm_100_questions.json"
+qcm_file_path_2 = "/mnt/data/qcm_2_GPT_100.json"
 
-try:
-    with open(qcm_file_path_1, "r", encoding="utf-8") as file:
-        qcm_100_questions = json.load(file)
-except FileNotFoundError:
-    qcm_100_questions = []
+def load_qcm(file_path):
+    try:
+        with open(file_path, "r", encoding="utf-8") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return []
 
-try:
-    with open(qcm_file_path_2, "r", encoding="utf-8") as file:
-        qcm2_100_questions = json.load(file)
-except FileNotFoundError:
-    qcm2_100_questions = []
+def save_qcm(file_path, qcm_data):
+    with open(file_path, "w", encoding="utf-8") as file:
+        json.dump(qcm_data, file, indent=4, ensure_ascii=False)
+
+qcm_100_questions = load_qcm(qcm_file_path_1)
+qcm2_100_questions = load_qcm(qcm_file_path_2)
 
 # Définition des QCM existants
 qcm_collection = {
@@ -3678,8 +3679,8 @@ qcm_collection = {
     "QCM 2022": qcm2022,
     "QCM 2023": qcm2023,
     "QCM 2024": qcm2024,
-    "QCM by gpt 1": qcm_100_questions,
-    "QCM by gpt 2": qcm2_100_questions
+    "QCM Supplémentaire 1": qcm_100_questions,
+    "QCM Supplémentaire 2": qcm2_100_questions
 }
 
 # Interface Streamlit
@@ -3710,12 +3711,24 @@ for idx, q in enumerate(questions):
         else:
             st.error(f"Faux. Votre réponse : {answer} - {q['options'][answer]}. La bonne réponse est : {q['correct']} - {q['options'][q['correct']]}")
             wrong_summary.append({
+                "index": idx,
                 "question": q["question"],
                 "your_answer": answer,
                 "your_answer_text": q["options"].get(answer, "Réponse invalide"),
                 "correct": q["correct"],
                 "correct_text": q["options"][q["correct"]]
             })
+            
+            # Ajout du bouton de correction
+            if st.button(f"Corriger la réponse", key=f"correct_btn_{idx}"):
+                new_correct = st.selectbox("Sélectionnez la bonne réponse :", list(q["options"].keys()), key=f"new_correct_{idx}")
+                if st.button("Enregistrer la correction", key=f"save_correct_{idx}"):
+                    q["correct"] = new_correct
+                    if selected_qcm == "QCM Supplémentaire 1":
+                        save_qcm(qcm_file_path_1, qcm_100_questions)
+                    elif selected_qcm == "QCM Supplémentaire 2":
+                        save_qcm(qcm_file_path_2, qcm2_100_questions)
+                    st.success("Correction enregistrée avec succès !")
     st.write("---")
 
 # Affichage du score final
