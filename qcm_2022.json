@@ -345,7 +345,7 @@
             "D": "16 ans",
             "E": "18 ans"
         },
-        "correct": "D"
+        "correct": "E"
     },
     {
         "question": "35. Quel est le contenu du bloc de constitutionnalité en France ?",
@@ -591,7 +591,7 @@
             "D": "Les déchets",
             "E": "La formation professionnelle"
         },
-        "correct": "C"
+        "correct": "D"
     },
     {
         "question": "58. En quelle année le droit de vote a-t-il été reconnu au profit des militaires ?",
@@ -602,7 +602,7 @@
             "D": "1945",
             "E": "Les militaires n'ont pas le droit de vote"
         },
-        "correct": "C"
+        "correct": "D"
     },
     {
         "question": "59. En quelle année la reine Elizabeth II a-t-elle été couronnée ?",
