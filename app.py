@@ -184,7 +184,7 @@ file_name = qcm_file_mapping[selected_qcm]
 # -----------------------------------------------------------------
 # BOUTON POUR PUSH SUR GITHUB
 # -----------------------------------------------------------------
-if st.button("mettre à jour la correction (ne mettez pas de fausses corrections svp ❤️)"):
+if st.button("mettre à jour la correction (ne mettez pas de corrections fausses svp 🙏)"):
     github_owner = "sebastienHussons"
     github_repo = "qcm_CG"
     commit_message = "Mise à jour du QCM via Streamlit App"
