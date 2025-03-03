@@ -78,23 +78,19 @@ qcm_file_2021 = "qcm_2021.json"
 qcm_file_2022 = "qcm_2022.json"
 qcm_file_2023 = "qcm_2023.json"
 qcm_file_2024 = "qcm_2024.json"
-qcm_file_supp1 = "qcm_100_questions.json"
-qcm_file_supp2 = "qcm_2_GPT_100.json"
+
 
 qcm_2021_data = load_qcm(qcm_file_2021)
 qcm_2022_data = load_qcm(qcm_file_2022)
 qcm_2023_data = load_qcm(qcm_file_2023)
 qcm_2024_data = load_qcm(qcm_file_2024)
-qcm_supp1_data = load_qcm(qcm_file_supp1)
-qcm_supp2_data = load_qcm(qcm_file_supp2)
 
 qcm_collection = {
     "QCM 2021": qcm_2021_data,
     "QCM 2022": qcm_2022_data,
     "QCM 2023": qcm_2023_data,
     "QCM 2024": qcm_2024_data,
-    "QCM Supplémentaire 1": qcm_supp1_data,
-    "QCM Supplémentaire 2": qcm_supp2_data
+   
 }
 
 qcm_file_mapping = {
@@ -102,8 +98,7 @@ qcm_file_mapping = {
     "QCM 2022": qcm_file_2022,
     "QCM 2023": qcm_file_2023,
     "QCM 2024": qcm_file_2024,
-    "QCM Supplémentaire 1": qcm_file_supp1,
-    "QCM Supplémentaire 2": qcm_file_supp2
+   
 }
 
 # -----------------------------------------------------------------
