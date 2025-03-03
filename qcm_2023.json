@@ -1,1043 +1,1043 @@
 [
-  {
-    "question": "1. En musique, la double croche vaut :",
-    "options": {
-      "A": "une croche pointée",
-      "B": "un quart de noire",
-      "C": "la moitié d'une ronde",
-      "D": "la moitié d'une blanche"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "2. Jacques Brel repose :",
-    "options": {
-      "A": "aux Antilles",
-      "B": "aux Marquises",
-      "C": "aux îles Féroé",
-      "D": "à Miquelon"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "3. La circulaire du ministère de l'Éducation nationale du 5 mai 2021 interdit, dans l'enseignement et les actes administratifs, l'usage de l'écriture :",
-    "options": {
-      "A": "cursive",
-      "B": "inclusive",
-      "C": "révulsive",
-      "D": "déconstructive"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "4. La bataille \"des éperons d'or\" a opposé en 1302 l'armée du roi de France Philippe le Bel à des miliciens :",
-    "options": {
-      "A": "bourguignons",
-      "B": "flamands",
-      "C": "cathares",
-      "D": "bretons"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "5. En 2022, parmi les unités ukrainiennes combattant à Marioupol figure le bataillon :",
-    "options": {
-      "A": "Popov",
-      "B": "Azov",
-      "C": "Koutouzov",
-      "D": "Asimov"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "6. En janvier 2022, on a fêté les 400 ans de la naissance de :",
-    "options": {
-      "A": "Jean-Baptiste Poquelin",
-      "B": "François-Marie Arouet",
-      "C": "Sébastien Le Prestre"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "7. Le 8 septembre 2022, décède la reine Élisabeth II. Une série télévisée raconte son histoire, il s'agit de :",
-    "options": {
-      "A": "Downton Abbey",
-      "B": "The Crown",
-      "C": "Braveheart",
-      "D": "Young Royals"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "8. Le père Daniel Brottier est :",
-    "options": {
-      "A": "cofondateur d'une entreprise de chaussure pour les soldats de 1914",
-      "B": "cofondateur de l'union nationale des combattants",
-      "C": "cofondateur d'une entreprise de cinéma",
-      "D": "un hermite à Dakar"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "9. En matière budgétaire, la LOLF répartit les crédits du budget général de l'État par missions, programmes et :",
-    "options": {
-      "A": "activités",
-      "B": "actions",
-      "C": "autorisations",
-      "D": "allocations"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "10. Laquelle de ces appellations de vin n'est pas située en Gironde :",
-    "options": {
-      "A": "Entre deux mers",
-      "B": "Bonnezeaux",
-      "C": "Moulis",
-      "D": "Sauternes"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "11. En 2014 à Hong-Kong, quel objet usuel devient le symbole des manifestants pour la démocratie ?",
-    "options": {
-      "A": "le parapluie",
-      "B": "le mouchoir",
-      "C": "le chapeau melon"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "12. Taïwan est autrement connu sous le nom de :",
-    "options": {
-      "A": "Ceylan",
-      "B": "Formose",
-      "C": "Guam",
-      "D": "Andaman-et-Nicobar"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "13. Quelle marque de calculatrice est associée à la logique polonaise inverse ?",
-    "options": {
-      "A": "Casio",
-      "B": "Texas Instrument",
-      "C": "Hewlett-Packard"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "14. Parmi ces zones de défense, laquelle comprend une seule région ?",
-    "options": {
-      "A": "Sud",
-      "B": "Sud-ouest",
-      "C": "Ouest"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "15. La commune d'Hondschoote est :",
-    "options": {
-      "A": "belge",
-      "B": "française",
-      "C": "néerlandaise",
-      "D": "luxembourgeoise"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "16. S'agissant de leur position sur la carte de l'Europe, classer ces pays du Nord au Sud :",
-    "options": {
-      "A": "Estonie - Lituanie - Lettonie",
-      "B": "Estonie - Lettonie - Lituanie",
-      "C": "Lettonie - Estonie - Lituanie",
-      "D": "Lituanie - Lettonie - Estonie",
-      "E": "Lettonie - Lituanie - Estonie"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "17. La capitale de la Biélorussie est :",
-    "options": {
-      "A": "Riga",
-      "B": "Tallinn",
-      "C": "Minsk",
-      "D": "Vilnius",
-      "E": "Chisinau"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "18. En gastronomie, le thymus du veau s'appelle aussi :",
-    "options": {
-      "A": "le filet mignon",
-      "B": "le rognon",
-      "C": "le ris",
-      "D": "le foie",
-      "E": "l'araignée"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "19. Dans la locution « ci-gît », la seconde partie est une conjugaison du verbe :",
-    "options": {
-      "A": "gire",
-      "B": "gîter",
-      "C": "gésir",
-      "D": "gigoter"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "20. La suspension du service national a été décidée par :",
-    "options": {
-      "A": "Valéry Giscard d'Estaing",
-      "B": "François Mitterrand",
-      "C": "Nicolas Sarkozy",
-      "D": "Jacques Chirac",
-      "E": "Paul Deschanel"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "21. Il a succédé à Louis XVIII :",
-    "options": {
-      "A": "Louis-Philippe 1er",
-      "B": "Henri IV",
-      "C": "Napoléon 1er"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "22. Le Myanmar est l'autre nom de :",
-    "options": {
-      "A": "la Birmanie",
-      "B": "Formose",
-      "C": "Ceylan",
-      "D": "Hong Kong",
-      "E": "la Mandchourie"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "23. Le pont d'Aquitaine enjambe :",
-    "options": {
-      "A": "la Dordogne",
-      "B": "la Garonne",
-      "C": "la Leyre",
-      "D": "l'Adour"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "24. Combien y a-t-il de dynasties dans la monarchie française ?",
-    "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "25. Qui sont Snowball et Napoléon dans La Ferme des animaux de George ORWELL ?",
-    "options": {
-      "A": "Des chiens",
-      "B": "Des lapins",
-      "C": "Des agriculteurs",
-      "D": "Des cochons",
-      "E": "Des otages"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "26. Qu'est-ce que la loi salique ?",
-    "options": {
-      "A": "Une loi de nationalisation des biens du clergé",
-      "B": "Une loi interdisant aux femmes d'accéder au trône de France",
-      "C": "Une loi régissant la perception de l'impôt sur le sel",
-      "D": "Une loi imposant la pratique du français dans les actes administratifs"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "27. Qui a dit « Vous n'avez pas le monopole du cœur » ?",
-    "options": {
-      "A": "Valéry GISCARD D'ESTAING",
-      "B": "Pierre CURIE",
-      "C": "François MITTERAND",
-      "D": "Émile ZOLA",
-      "E": "Antoine de ST EXUPERY"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "28. Qui a peint le tableau « La liberté guidant le peuple » ?",
-    "options": {
-      "A": "Paul CÉZANNE",
-      "B": "Théodore GÉRICAULT",
-      "C": "Auguste RENOIR",
-      "D": "Eugène DELACROIX"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "29. Laquelle de ces directions n'appartient pas au ministère de l'Intérieur ?",
-    "options": {
-      "A": "La direction générale de la police nationale",
-      "B": "La direction générale des douanes et des droits indirects",
-      "C": "La direction générale de la sécurité intérieure",
-      "D": "La direction générale des collectivités locales",
-      "E": "La direction générale de la sécurité civile et de la gestion des crises"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "30. Que prévoit l'article 16 de la Constitution de la Vème République ?",
-    "options": {
-      "A": "Les conditions de mise en œuvre de l'état d'urgence",
-      "B": "L'organisation de l'autorité judiciaire",
-      "C": "Les pouvoirs exceptionnels accordés au président de la République en cas de menace grave et immédiate pesant sur la Nation et ses institutions",
-      "D": "La responsabilité pénale des membres du gouvernement agissant dans l'exercice de leurs fonctions"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "31. Au début des années 1930, plusieurs millions d'Ukrainiens périssent au cours de l'Holodomor. De quoi s'agit-il ?",
-    "options": {
-      "A": "Une grande famine",
-      "B": "Une guerre civile",
-      "C": "Une campagne de tests de missiles balistiques soviétiques",
-      "D": "Une pandémie"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "32. Laquelle de ces institutions n'appartient pas à l'Union européenne ?",
-    "options": {
-      "A": "Le parlement européen",
-      "B": "La commission européenne",
-      "C": "Le conseil de l'Union européenne",
-      "D": "La cour européenne des droits de l'homme"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "33. « Selon que vous serez puissant ou misérable, les jugements de cour vous rendront blanc ou noir » est la morale d'une fable de Jean de la FONTAINE. Laquelle ?",
-    "options": {
-      "A": "Le Lion et le Rat",
-      "B": "Le Lièvre et la Tortue",
-      "C": "Les animaux malades de la Peste",
-      "D": "Le Corbeau et le Renard"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "34. Quel artiste francophone évoque ses difficultés psychologiques dans sa chanson « L'enfer » ?",
-    "options": {
-      "A": "Orelsan",
-      "B": "Stromae",
-      "C": "Angèle",
-      "D": "Jul"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "35. L'Algérie a fêté en 2022 l'anniversaire de son indépendance. Quel chiffre symbolique a été franchi à cette occasion ?",
-    "options": {
-      "A": "20 ans",
-      "B": "40 ans",
-      "C": "60 ans",
-      "D": "80 ans"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "36. Quel lieu saint constitue la nécropole des rois de France ?",
-    "options": {
-      "A": "La cathédrale Notre Dame de PARIS",
-      "B": "La basilique du Sacré Cœur",
-      "C": "La cathédrale de REIMS",
-      "D": "La basilique de SAINT DENIS"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "37. Lequel de ces ministères appartient au gouvernement d'Élisabeth BORNE ?",
-    "options": {
-      "A": "Ministère de l'Intérieur, de l'Outre-mer et des collectivités territoriales",
-      "B": "Ministère de l'Intérieur et des Outre-mer",
-      "C": "Ministère de l'Intérieur et de l'Immigration",
-      "D": "Ministère de l'Intérieur et de l'Aménagement du territoire"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "38. Dans un procès hors normes, plusieurs terroristes ont été condamnés pour les attentats commis au Bataclan et au stade de France. Quand ces évènements ont-ils eu lieu ?",
-    "options": {
-      "A": "Mercredi 11 novembre 2015",
-      "B": "Mardi 11 novembre 2016",
-      "C": "Vendredi 13 novembre 2015",
-      "D": "Vendredi 13 novembre 2014"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "39. En France, qu'est-ce que la prévôté ?",
-    "options": {
-      "A": "Une unité logistique",
-      "B": "Une juridiction particulière en charge des contentieux religieux",
-      "C": "Une unité en charge de la police militaire"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "40. Combien la France compte-t-elle de communes ?",
-    "options": {
-      "A": "Environ 4000",
-      "B": "Environ 10000",
-      "C": "Environ 25000",
-      "D": "Environ 35000"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "41. Quel humoriste fondateur des « Restos du Cœur » est à l'origine d'une loi facilitant les dons aux associations caritatives ?",
-    "options": {
-      "A": "Jamel DEBBOUZE",
-      "B": "Coluche",
-      "C": "Kev ADAMS",
-      "D": "Pierre DESPROGES",
-      "E": "Alain CHABAT"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "42. Qui est l'auteur de la déclaration des droits de la femme et de la citoyenne ?",
-    "options": {
-      "A": "George SAND",
-      "B": "Olympe de GOUGES",
-      "C": "Simone de BEAUVOIR",
-      "D": "Élisabeth BADINTER"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "43. Quel est le régime politique de la France en 1814 ?",
-    "options": {
-      "A": "La Monarchie de Juillet",
-      "B": "La Ière République",
-      "C": "Le 1er Empire",
-      "D": "La IIème République"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "44. Combien d'étoiles compte le drapeau européen ?",
-    "options": {
-      "A": "27",
-      "B": "12",
-      "C": "15",
-      "D": "21"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "45. Classez ces pays du Nord au Sud :",
-    "options": {
-      "A": "Paraguay / Bolivie / Uruguay",
-      "B": "Uruguay / Bolivie / Paraguay",
-      "C": "Uruguay / Paraguay / Bolivie",
-      "D": "Bolivie / Paraguay / Uruguay"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "46. Qui a dit « ce qui se conçoit bien s'énonce clairement » ?",
-    "options": {
-      "A": "La Fontaine",
-      "B": "Einstein",
-      "C": "Boileau",
-      "D": "Montesquieu"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "47. Quelle déclinaison du rugby n'existe pas ?",
-    "options": {
-      "A": "Rugby à XV",
-      "B": "Rugby à XIII",
-      "C": "Rugby à IX",
-      "D": "Rugby à VII",
-      "E": "Rugby à V"
-    },
-    "correct": "E"
-  },
-  {
-    "question": "48. En quelle année le drapeau tricolore a-t-il été définitivement adopté en France ?",
-    "options": {
-      "A": "1789",
-      "B": "1793",
-      "C": "1848",
-      "D": "1870"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "49. La Fontaine a ses Fables, Perreault ses Contes et Pascal ses Pensées ; qu'a écrit La Bruyère ?",
-    "options": {
-      "A": "Les Citations",
-      "B": "Les Caractères",
-      "C": "Les Palinodies",
-      "D": "Les Parenthèses"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "50. Combien de Ballons d'or Lionel MESSI a-t-il obtenus ?",
-    "options": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "51. Quel sujet de société est abordé à la fin de la chanson « Le gorille » de Georges Brassens ?",
-    "options": {
-      "A": "La peine de mort",
-      "B": "Le mariage pour tous",
-      "C": "Le bien-être animal",
-      "D": "Le vieillissement de la population",
-      "E": "Le chômage"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "52. Dans quel pays est organisée depuis 1909 la célèbre marche militaire de Nimègue ?",
-    "options": {
-      "A": "France",
-      "B": "Belgique",
-      "C": "Pays-Bas",
-      "E": "Allemagne"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "53. Qui était Hubert Germain, décédé le 12 octobre 2021 ?",
-    "options": {
-      "A": "Le premier commandant du 1er régiment de chasseurs parachutistes",
-      "B": "Le dernier des 1038 compagnons de la Libération",
-      "C": "Le premier directeur général de la Gendarmerie nationale",
-      "D": "Le dernier des 8 millions de « poilus »"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "54. Qui a présidé le 75ème festival de Cannes en 2022 ?",
-    "options": {
-      "A": "Vincent Lindon",
-      "B": "Guillaume Canet",
-      "C": "Gérard Depardieu",
-      "D": "François Cluzet",
-      "E": "Daniel Auteuil"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "55. Depuis sa dernière réforme de 2020, le Conseil économique, social et environnemental (CESE) est composé de 4 pôles. Cherchez l'intrus !",
-    "options": {
-      "A": "Régions, départements, communes et établissements publics de coopération intercommunale",
-      "B": "Salariés",
-      "C": "Entreprises, exploitants agricoles, artisans, professions libérales, mutuelles et chambres consulaires",
-      "D": "Cohésion sociale et territoriale et de la vie associative",
-      "E": "Protection de la nature et de l'environnement"
-    },
-    "correct": "E"
-  },
-  {
-    "question": "56. Que valorise l'adjectif callipyge ?",
-    "options": {
-      "A": "La santé",
-      "B": "L'écriture",
-      "C": "La silhouette",
-      "D": "L'esprit"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "57. Cherchez l'intrus !",
-    "options": {
-      "A": "Paul Klee",
-      "B": "Eugène Delacroix",
-      "C": "Edvard Munch",
-      "D": "Robert Doisneau",
-      "E": "Gustav Klimt"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "58. Dans une partition, combien de temps dure un soupir ?",
-    "options": {
-      "A": "Une croche",
-      "B": "Une noire",
-      "C": "Une blanche",
-      "D": "Une ronde",
-      "E": "Aucune de ces propositions"
-    },
-    "correct": "E"
-  },
-  {
-    "question": "59. Que vient fixer en 1539 l'ordonnance de Villers-Cotterêts ?",
-    "options": {
-      "A": "Les frontières définitives du royaume de France",
-      "B": "Le Français comme langue officielle du droit et de l'administration",
-      "C": "La primogéniture mâle dans la dévolution de la couronne royale",
-      "D": "La départementalisation du territoire national",
-      "E": "Le Franc français comme unique monnaie du royaume"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "60. Quel est l'auteur des Mémoires d'outre-tombe ?",
-    "options": {
-      "A": "Honoré de Balzac",
-      "B": "Victor Hugo",
-      "C": "Guy de Maupassant",
-      "D": "François-René de Chateaubriand",
-      "E": "Émile Zola"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "61. Quel château a inspiré Hergé pour dessiner le château de Moulinsart pour sa série de bande dessinée Les Aventures de Tintin ?",
-    "options": {
-      "A": "Le château de Blois",
-      "B": "Le château de Cheverny",
-      "C": "Le château de Langeais",
-      "D": "Le château d'Amboise",
-      "E": "Le château de Chambord"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "62. Qui a peint Le Radeau de la Méduse ?",
-    "options": {
-      "A": "Auguste Renoir",
-      "B": "Paul Cézanne",
-      "C": "Théodore Géricault",
-      "D": "Eugène Delacroix",
-      "E": "Edgar Degas"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "63. Le 23 avril 2021, lequel de ces astronautes n'embarque pas à bord de la capsule Crew Dragon pour rejoindre la station spatiale internationale pour une mission d'une durée de six mois ?",
-    "options": {
-      "A": "le Français Thomas Pesquet",
-      "B": "l'Italien Luca Parmitano",
-      "C": "l'Américaine Katherine Megan McArthur",
-      "D": "le Japonais Akihiko Hoshide",
-      "E": "l'Américain Robert Shane Kimbrough"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "64. Dans quel département métropolitain se situe le Mont Gerbier-de-Jonc, massif au pied duquel la Loire prend sa source ?",
-    "options": {
-      "A": "la Lozère",
-      "B": "la Loire",
-      "C": "la Drôme",
-      "D": "la Haute-Loire",
-      "E": "l'Ardèche"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "65. Quelle est la fosse sous-marine la plus profonde ?",
-    "options": {
-      "A": "la fosse des Philippines",
-      "B": "la fosse des Mariannes",
-      "C": "la fosse du Japon",
-      "D": "la fosse des Tonga",
-      "E": "la fosse Calypso"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "66. Quelle est la capitale du Kazakhstan ?",
-    "options": {
-      "A": "Almaty",
-      "B": "Douchanbé",
-      "C": "Achgabat",
-      "D": "Astana",
-      "E": "Bichkek"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "67. Quel est le principal cépage du Saint-Émilion ?",
-    "options": {
-      "A": "le syrah",
-      "B": "le cabernet franc",
-      "C": "le merlot",
-      "D": "le cabernet sauvignon",
-      "E": "le gamay"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "68. En patinage artistique, quelle figure est appelée « le Bonaly » ?",
-    "options": {
-      "A": "le triple boucle piqué",
-      "B": "l'axel",
-      "C": "le double flip",
-      "D": "le salto arrière",
-      "E": "le saut de biche"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "69. La reine Élisabeth II s'est éteinte le 8 septembre 2022 au château de Balmoral en Écosse. Combien de temps aura duré son règne sur le trône d'Angleterre ?",
-    "options": {
-      "A": "60 ans",
-      "B": "65 ans",
-      "C": "70 ans",
-      "D": "75 ans",
-      "E": "80 ans"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "70. De qui est l'expression « Les Trente Glorieuses » ?",
-    "options": {
-      "A": "Jean Fourastié",
-      "B": "François Perroux",
-      "C": "Jean Monnet",
-      "D": "François Chesnais",
-      "E": "Raymond Barre"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "71. Depuis le « Brexit » en 2020, combien d'états sont-ils membres de l'Union Européenne ?",
-    "options": {
-      "A": "23",
-      "B": "25",
-      "C": "27",
-      "D": "29",
-      "E": "31"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "72. L'ambassade de France en Italie est située à Rome. Dans quel édifice siège-t-elle ?",
-    "options": {
-      "A": "La villa Médicis",
-      "B": "Le palais Firenze",
-      "C": "La villa Giulia",
-      "D": "Le palais Valentini",
-      "E": "Le palais Farnèse"
-    },
-    "correct": "E"
-  },
-  {
-    "question": "73. Qui est l'inventeur de la photographie ?",
-    "options": {
-      "A": "David Brewster",
-      "B": "Nicéphore Niépce",
-      "C": "Michael Faraday",
-      "D": "Thomas Edison",
-      "E": "Louis Lumière"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "74. Quel était le port d'attache du RMS Titanic lequel a sombré dans l'Atlantique Nord dans la nuit du 14 au 15 avril 1912 à la suite d'une collision avec un iceberg ?",
-    "options": {
-      "A": "Southampton",
-      "B": "Liverpool",
-      "C": "Queenstown",
-      "D": "New York",
-      "E": "Belfast"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "75. Le titre des « dix petits nègres » d'Agatha Christie a été modifié en 2020. Comment ce classique s'appelle-t-il désormais ?",
-    "options": {
-      "A": "Ils étaient dix",
-      "B": "Les dix petits soldats",
-      "C": "Ils ne sont que dix",
-      "D": "Les dix petits camarades",
-      "E": "Le couteau sur la nuque"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "76. Combien de sous-marins nucléaires lanceurs d'engins composent la flotte actuelle française ?",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5",
-      "E": "6"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "77. La tendance à parler de ce qu'on ne connaît pas est aussi appelée :",
-    "options": {
-      "A": "la procrastination",
-      "B": "l'emphase",
-      "C": "l'ultracrépidarianisme",
-      "D": "l'anathème",
-      "E": "l'anatidaephobie"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "78. Quel concept poétique désigne l'état d'un être qui ne reconnaît plus de règle à son encontre, l'être en question pouvant être une collectivité :",
-    "options": {
-      "A": "l'anomie",
-      "B": "le hiératisme",
-      "C": "l'orthodoxie",
-      "D": "le panégyrique",
-      "E": "la rhétorique"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "79. Le « Discours de la servitude volontaire », qu'Étienne de La Boétie a rédigé à 16 ans, pose une question simple : pourquoi choisit-on d'obéir ? Au cours de quel siècle a été publié cet ouvrage ?",
-    "options": {
-      "A": "XVIème siècle",
-      "B": "XVIIème siècle",
-      "C": "XVIIIème siècle",
-      "D": "XIXème siècle"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "80. Combien de personnels composent la population totale des officiers de la gendarmerie nationale (chiffres consolidés 2021 - en position d'activité) ?",
-    "options": {
-      "A": "2.800",
-      "B": "3.850",
-      "C": "4.590",
-      "D": "6.290",
-      "E": "8.220"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "81. Dans la nuit du 22 au 23 décembre 2020, trois militaires de la compagnie d'Ambert, dans le Puy-de-Dôme, sont tués alors qu'ils intervenaient sur des violences intrafamiliales. Sur quelle commune a eu lieu ce drame ?",
-    "options": {
-      "A": "Saint-Just",
-      "B": "Riom",
-      "C": "Chevalier",
-      "D": "Clermont-Ferrand",
-      "E": "Montluçon"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "82. Qu'est-ce qu'un sous-officier CSTAGN ?",
-    "options": {
-      "A": "Un sous-officier du corps de soutien technique et administratif de la gendarmerie nationale",
-      "B": "Un sous-officier du corps des services technologiques et de l'anticipation de la gendarmerie nationale",
-      "C": "Un sous-officier du corps spécial des techniques d'acclimatation de la gendarmerie nationale",
-      "D": "Un sous-officier du corps de spécialité des techniques d'aguerrissement de la gendarmerie nationale"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "83. Quelle est la devise de la gendarmerie ?",
-    "options": {
-      "A": "Honneur et Fidélité",
-      "B": "Pour la Patrie, l'Honneur et le Droit",
-      "C": "Honneur, Patrie, Valeur, Discipline",
-      "D": "S'engager pour la vie",
-      "E": "Si tu veux la paix, prépare la guerre"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "84. Trouvez la bonne réponse pour compléter cette affirmation. « Les députés... :",
-    "options": {
-      "A": "sont élus tous les six ans",
-      "B": "peuvent cumuler la fonction de député avec un mandat local",
-      "C": "peuvent être réélus sans limite de candidature",
-      "D": "sont limités à deux mandats successifs"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "85. Quelle est la capitale de la Suisse ?",
-    "options": {
-      "A": "Bâle",
-      "B": "Berne",
-      "C": "Zurich",
-      "D": "Bienne",
-      "E": "Genève"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "86. Quelle miss a remporté le concours Miss France 2022 ?",
-    "options": {
-      "A": "Alsace",
-      "B": "Île-de-France",
-      "C": "Réunion",
-      "D": "Normandie",
-      "E": "Corse"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "87. Les Jeux Olympiques 2024 auront lieu à Paris. À cette occasion, le comité d'organisation a décidé que le karaté ne serait pas au programme, en revanche quelle discipline fera son apparition ?",
-    "options": {
-      "A": "roller sur piste",
-      "B": "bowling",
-      "C": "breakdance",
-      "D": "twirling bâton",
-      "E": "yoseikan budo"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "88. L'aconit est :",
-    "options": {
-      "A": "Une plante vénéneuse",
-      "B": "Une pierre précieuse",
-      "C": "Un oiseau pêcheur"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "89. La sécurité sociale a été créée en :",
-    "options": {
-      "A": "1924",
-      "B": "1936",
-      "C": "1945",
-      "D": "1946",
-      "E": "1958"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "90. Elle a été la base de la politique des États-Unis contre le bloc communiste durant la guerre froide. Il s'agit de la doctrine :",
-    "options": {
-      "A": "Monroe",
-      "B": "Truman",
-      "C": "Roosevelt",
-      "D": "Eisenhower",
-      "E": "Reagan"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "91. En 2017, Robert Mugabe a quitté le pouvoir. Il était président :",
-    "options": {
-      "A": "Du Zimbabwe",
-      "B": "De l'Ouganda",
-      "C": "De la Tanzanie",
-      "D": "De la Sierra Leone"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "92. Lequel de ces personnages shakespeariens a été interprété et mis en scène à l'écran par Orson Welles ?",
-    "options": {
-      "A": "Richard III",
-      "B": "Henri V",
-      "C": "Jules César",
-      "D": "Othello"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "93. Pour lequel de ces films le comédien Sami Bouajila a-t-il obtenu le César du meilleur acteur ?",
-    "options": {
-      "A": "Indigènes",
-      "B": "Omar m'a tuer",
-      "C": "Un fils",
-      "D": "Vivre me tue"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "94. Comment s'appelle le grillage géométrique des fenêtres des palais arabes ?",
-    "options": {
-      "A": "Le pishtak",
-      "B": "Le moucharabieh",
-      "C": "L'iwan",
-      "D": "Le hazerbaf",
-      "E": "Le qasr"
-    },
-    "correct": "B"
-  },
-  {
-    "question": "95. Quel sculpteur est un ancien sportif surnommé « casque d'or » ?",
-    "options": {
-      "A": "Eric Cantona",
-      "B": "Serge Blanco",
-      "C": "Serge Simon",
-      "D": "Jean-Pierre Rives",
-      "E": "Pierre Albaladejo"
-    },
-    "correct": "D"
-  },
-  {
-    "question": "96. Le parc nucléaire civil français de production d'électricité se compose, en décembre 2021, de :",
-    "options": {
-      "A": "18 centres de production et 56 réacteurs",
-      "B": "20 centres de production et 60 réacteurs",
-      "C": "15 centres de production et 47 réacteurs",
-      "D": "18 centres de production et 52 réacteurs",
-      "E": "14 centres de production et 56 réacteurs"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "97. Qui est le dernier roi de France ?",
-    "options": {
-      "A": "Louis-Philippe d'Orléans",
-      "B": "Charles X",
-      "C": "Louis-Philippe 1er",
-      "D": "Louis XVI"
-    },
-    "correct": "C"
-  },
-  {
-    "question": "98. Dans quel état américain se trouve le Grand lac salé ?",
-    "options": {
-      "A": "Utah",
-      "B": "Arizona",
-      "C": "Colorado",
-      "D": "Nouveau-Mexique",
-      "E": "Nevada"
-    },
-    "correct": "A"
-  },
-  {
-    "question": "99. Quel état du sud-est asiatique n'a-t-il pas été colonisé par les Occidentaux ?",
-    "options": {
-      "A": "la Birmanie",
-      "B": "le Cambodge",
-      "C": "l'Indonésie",
-      "D": "le Laos",
-      "E": "la Thaïlande"
-    },
-    "correct": "E"
-  },
-  {
-    "question": "100. Qui a dit « On ne devrait lire que les livres qui vous mordent et vous piquent » ?",
-    "options": {
-      "A": "Dino Buzzati",
-      "B": "Alfred de Musset",
-      "C": "Boris Vian",
-      "D": "Franz Kafka"
-    },
-    "correct": "C"
-  }
+    {
+        "question": "1. En musique, la double croche vaut :",
+        "options": {
+            "A": "une croche pointée",
+            "B": "un quart de noire",
+            "C": "la moitié d'une ronde",
+            "D": "la moitié d'une blanche"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "2. Jacques Brel repose :",
+        "options": {
+            "A": "aux Antilles",
+            "B": "aux Marquises",
+            "C": "aux îles Féroé",
+            "D": "à Miquelon"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "3. La circulaire du ministère de l'Éducation nationale du 5 mai 2021 interdit, dans l'enseignement et les actes administratifs, l'usage de l'écriture :",
+        "options": {
+            "A": "cursive",
+            "B": "inclusive",
+            "C": "révulsive",
+            "D": "déconstructive"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "4. La bataille \"des éperons d'or\" a opposé en 1302 l'armée du roi de France Philippe le Bel à des miliciens :",
+        "options": {
+            "A": "bourguignons",
+            "B": "flamands",
+            "C": "cathares",
+            "D": "bretons"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "5. En 2022, parmi les unités ukrainiennes combattant à Marioupol figure le bataillon :",
+        "options": {
+            "A": "Popov",
+            "B": "Azov",
+            "C": "Koutouzov",
+            "D": "Asimov"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "6. En janvier 2022, on a fêté les 400 ans de la naissance de :",
+        "options": {
+            "A": "Jean-Baptiste Poquelin",
+            "B": "François-Marie Arouet",
+            "C": "Sébastien Le Prestre"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "7. Le 8 septembre 2022, décède la reine Élisabeth II. Une série télévisée raconte son histoire, il s'agit de :",
+        "options": {
+            "A": "Downton Abbey",
+            "B": "The Crown",
+            "C": "Braveheart",
+            "D": "Young Royals"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "8. Le père Daniel Brottier est :",
+        "options": {
+            "A": "cofondateur d'une entreprise de chaussure pour les soldats de 1914",
+            "B": "cofondateur de l'union nationale des combattants",
+            "C": "cofondateur d'une entreprise de cinéma",
+            "D": "un hermite à Dakar"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "9. En matière budgétaire, la LOLF répartit les crédits du budget général de l'État par missions, programmes et :",
+        "options": {
+            "A": "activités",
+            "B": "actions",
+            "C": "autorisations",
+            "D": "allocations"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "10. Laquelle de ces appellations de vin n'est pas située en Gironde :",
+        "options": {
+            "A": "Entre deux mers",
+            "B": "Bonnezeaux",
+            "C": "Moulis",
+            "D": "Sauternes"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "11. En 2014 à Hong-Kong, quel objet usuel devient le symbole des manifestants pour la démocratie ?",
+        "options": {
+            "A": "le parapluie",
+            "B": "le mouchoir",
+            "C": "le chapeau melon"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "12. Taïwan est autrement connu sous le nom de :",
+        "options": {
+            "A": "Ceylan",
+            "B": "Formose",
+            "C": "Guam",
+            "D": "Andaman-et-Nicobar"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "13. Quelle marque de calculatrice est associée à la logique polonaise inverse ?",
+        "options": {
+            "A": "Casio",
+            "B": "Texas Instrument",
+            "C": "Hewlett-Packard"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "14. Parmi ces zones de défense, laquelle comprend une seule région ?",
+        "options": {
+            "A": "Sud",
+            "B": "Sud-ouest",
+            "C": "Ouest"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "15. La commune d'Hondschoote est :",
+        "options": {
+            "A": "belge",
+            "B": "française",
+            "C": "néerlandaise",
+            "D": "luxembourgeoise"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "16. S'agissant de leur position sur la carte de l'Europe, classer ces pays du Nord au Sud :",
+        "options": {
+            "A": "Estonie - Lituanie - Lettonie",
+            "B": "Estonie - Lettonie - Lituanie",
+            "C": "Lettonie - Estonie - Lituanie",
+            "D": "Lituanie - Lettonie - Estonie",
+            "E": "Lettonie - Lituanie - Estonie"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "17. La capitale de la Biélorussie est :",
+        "options": {
+            "A": "Riga",
+            "B": "Tallinn",
+            "C": "Minsk",
+            "D": "Vilnius",
+            "E": "Chisinau"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "18. En gastronomie, le thymus du veau s'appelle aussi :",
+        "options": {
+            "A": "le filet mignon",
+            "B": "le rognon",
+            "C": "le ris",
+            "D": "le foie",
+            "E": "l'araignée"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "19. Dans la locution « ci-gît », la seconde partie est une conjugaison du verbe :",
+        "options": {
+            "A": "gire",
+            "B": "gîter",
+            "C": "gésir",
+            "D": "gigoter"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "20. La suspension du service national a été décidée par :",
+        "options": {
+            "A": "Valéry Giscard d'Estaing",
+            "B": "François Mitterrand",
+            "C": "Nicolas Sarkozy",
+            "D": "Jacques Chirac",
+            "E": "Paul Deschanel"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "21. Il a succédé à Louis XVIII :",
+        "options": {
+            "A": "Louis-Philippe 1er",
+            "B": "Henri IV",
+            "C": "Napoléon 1er"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "22. Le Myanmar est l'autre nom de :",
+        "options": {
+            "A": "la Birmanie",
+            "B": "Formose",
+            "C": "Ceylan",
+            "D": "Hong Kong",
+            "E": "la Mandchourie"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "23. Le pont d'Aquitaine enjambe :",
+        "options": {
+            "A": "la Dordogne",
+            "B": "la Garonne",
+            "C": "la Leyre",
+            "D": "l'Adour"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "24. Combien y a-t-il de dynasties dans la monarchie française ?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "25. Qui sont Snowball et Napoléon dans La Ferme des animaux de George ORWELL ?",
+        "options": {
+            "A": "Des chiens",
+            "B": "Des lapins",
+            "C": "Des agriculteurs",
+            "D": "Des cochons",
+            "E": "Des otages"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "26. Qu'est-ce que la loi salique ?",
+        "options": {
+            "A": "Une loi de nationalisation des biens du clergé",
+            "B": "Une loi interdisant aux femmes d'accéder au trône de France",
+            "C": "Une loi régissant la perception de l'impôt sur le sel",
+            "D": "Une loi imposant la pratique du français dans les actes administratifs"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "27. Qui a dit « Vous n'avez pas le monopole du cœur » ?",
+        "options": {
+            "A": "Valéry GISCARD D'ESTAING",
+            "B": "Pierre CURIE",
+            "C": "François MITTERAND",
+            "D": "Émile ZOLA",
+            "E": "Antoine de ST EXUPERY"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "28. Qui a peint le tableau « La liberté guidant le peuple » ?",
+        "options": {
+            "A": "Paul CÉZANNE",
+            "B": "Théodore GÉRICAULT",
+            "C": "Auguste RENOIR",
+            "D": "Eugène DELACROIX"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "29. Laquelle de ces directions n'appartient pas au ministère de l'Intérieur ?",
+        "options": {
+            "A": "La direction générale de la police nationale",
+            "B": "La direction générale des douanes et des droits indirects",
+            "C": "La direction générale de la sécurité intérieure",
+            "D": "La direction générale des collectivités locales",
+            "E": "La direction générale de la sécurité civile et de la gestion des crises"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "30. Que prévoit l'article 16 de la Constitution de la Vème République ?",
+        "options": {
+            "A": "Les conditions de mise en œuvre de l'état d'urgence",
+            "B": "L'organisation de l'autorité judiciaire",
+            "C": "Les pouvoirs exceptionnels accordés au président de la République en cas de menace grave et immédiate pesant sur la Nation et ses institutions",
+            "D": "La responsabilité pénale des membres du gouvernement agissant dans l'exercice de leurs fonctions"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "31. Au début des années 1930, plusieurs millions d'Ukrainiens périssent au cours de l'Holodomor. De quoi s'agit-il ?",
+        "options": {
+            "A": "Une grande famine",
+            "B": "Une guerre civile",
+            "C": "Une campagne de tests de missiles balistiques soviétiques",
+            "D": "Une pandémie"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "32. Laquelle de ces institutions n'appartient pas à l'Union européenne ?",
+        "options": {
+            "A": "Le parlement européen",
+            "B": "La commission européenne",
+            "C": "Le conseil de l'Union européenne",
+            "D": "La cour européenne des droits de l'homme"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "33. « Selon que vous serez puissant ou misérable, les jugements de cour vous rendront blanc ou noir » est la morale d'une fable de Jean de la FONTAINE. Laquelle ?",
+        "options": {
+            "A": "Le Lion et le Rat",
+            "B": "Le Lièvre et la Tortue",
+            "C": "Les animaux malades de la Peste",
+            "D": "Le Corbeau et le Renard"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "34. Quel artiste francophone évoque ses difficultés psychologiques dans sa chanson « L'enfer » ?",
+        "options": {
+            "A": "Orelsan",
+            "B": "Stromae",
+            "C": "Angèle",
+            "D": "Jul"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "35. L'Algérie a fêté en 2022 l'anniversaire de son indépendance. Quel chiffre symbolique a été franchi à cette occasion ?",
+        "options": {
+            "A": "20 ans",
+            "B": "40 ans",
+            "C": "60 ans",
+            "D": "80 ans"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "36. Quel lieu saint constitue la nécropole des rois de France ?",
+        "options": {
+            "A": "La cathédrale Notre Dame de PARIS",
+            "B": "La basilique du Sacré Cœur",
+            "C": "La cathédrale de REIMS",
+            "D": "La basilique de SAINT DENIS"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "37. Lequel de ces ministères appartient au gouvernement d'Élisabeth BORNE ?",
+        "options": {
+            "A": "Ministère de l'Intérieur, de l'Outre-mer et des collectivités territoriales",
+            "B": "Ministère de l'Intérieur et des Outre-mer",
+            "C": "Ministère de l'Intérieur et de l'Immigration",
+            "D": "Ministère de l'Intérieur et de l'Aménagement du territoire"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "38. Dans un procès hors normes, plusieurs terroristes ont été condamnés pour les attentats commis au Bataclan et au stade de France. Quand ces évènements ont-ils eu lieu ?",
+        "options": {
+            "A": "Mercredi 11 novembre 2015",
+            "B": "Mardi 11 novembre 2016",
+            "C": "Vendredi 13 novembre 2015",
+            "D": "Vendredi 13 novembre 2014"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "39. En France, qu'est-ce que la prévôté ?",
+        "options": {
+            "A": "Une unité logistique",
+            "B": "Une juridiction particulière en charge des contentieux religieux",
+            "C": "Une unité en charge de la police militaire"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "40. Combien la France compte-t-elle de communes ?",
+        "options": {
+            "A": "Environ 4000",
+            "B": "Environ 10000",
+            "C": "Environ 25000",
+            "D": "Environ 35000"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "41. Quel humoriste fondateur des « Restos du Cœur » est à l'origine d'une loi facilitant les dons aux associations caritatives ?",
+        "options": {
+            "A": "Jamel DEBBOUZE",
+            "B": "Coluche",
+            "C": "Kev ADAMS",
+            "D": "Pierre DESPROGES",
+            "E": "Alain CHABAT"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "42. Qui est l'auteur de la déclaration des droits de la femme et de la citoyenne ?",
+        "options": {
+            "A": "George SAND",
+            "B": "Olympe de GOUGES",
+            "C": "Simone de BEAUVOIR",
+            "D": "Élisabeth BADINTER"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "43. Quel est le régime politique de la France en 1814 ?",
+        "options": {
+            "A": "La Monarchie de Juillet",
+            "B": "La Ière République",
+            "C": "Le 1er Empire",
+            "D": "La IIème République"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "44. Combien d'étoiles compte le drapeau européen ?",
+        "options": {
+            "A": "27",
+            "B": "12",
+            "C": "15",
+            "D": "21"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "45. Classez ces pays du Nord au Sud :",
+        "options": {
+            "A": "Paraguay / Bolivie / Uruguay",
+            "B": "Uruguay / Bolivie / Paraguay",
+            "C": "Uruguay / Paraguay / Bolivie",
+            "D": "Bolivie / Paraguay / Uruguay"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "46. Qui a dit « ce qui se conçoit bien s'énonce clairement » ?",
+        "options": {
+            "A": "La Fontaine",
+            "B": "Einstein",
+            "C": "Boileau",
+            "D": "Montesquieu"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "47. Quelle déclinaison du rugby n'existe pas ?",
+        "options": {
+            "A": "Rugby à XV",
+            "B": "Rugby à XIII",
+            "C": "Rugby à IX",
+            "D": "Rugby à VII",
+            "E": "Rugby à V"
+        },
+        "correct": "E"
+    },
+    {
+        "question": "48. En quelle année le drapeau tricolore a-t-il été définitivement adopté en France ?",
+        "options": {
+            "A": "1789",
+            "B": "1793",
+            "C": "1848",
+            "D": "1870"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "49. La Fontaine a ses Fables, Perreault ses Contes et Pascal ses Pensées ; qu'a écrit La Bruyère ?",
+        "options": {
+            "A": "Les Citations",
+            "B": "Les Caractères",
+            "C": "Les Palinodies",
+            "D": "Les Parenthèses"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "50. Combien de Ballons d'or Lionel MESSI a-t-il obtenus ?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "51. Quel sujet de société est abordé à la fin de la chanson « Le gorille » de Georges Brassens ?",
+        "options": {
+            "A": "La peine de mort",
+            "B": "Le mariage pour tous",
+            "C": "Le bien-être animal",
+            "D": "Le vieillissement de la population",
+            "E": "Le chômage"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "52. Dans quel pays est organisée depuis 1909 la célèbre marche militaire de Nimègue ?",
+        "options": {
+            "A": "France",
+            "B": "Belgique",
+            "C": "Pays-Bas",
+            "E": "Allemagne"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "53. Qui était Hubert Germain, décédé le 12 octobre 2021 ?",
+        "options": {
+            "A": "Le premier commandant du 1er régiment de chasseurs parachutistes",
+            "B": "Le dernier des 1038 compagnons de la Libération",
+            "C": "Le premier directeur général de la Gendarmerie nationale",
+            "D": "Le dernier des 8 millions de « poilus »"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "54. Qui a présidé le 75ème festival de Cannes en 2022 ?",
+        "options": {
+            "A": "Vincent Lindon",
+            "B": "Guillaume Canet",
+            "C": "Gérard Depardieu",
+            "D": "François Cluzet",
+            "E": "Daniel Auteuil"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "55. Depuis sa dernière réforme de 2020, le Conseil économique, social et environnemental (CESE) est composé de 4 pôles. Cherchez l'intrus !",
+        "options": {
+            "A": "Régions, départements, communes et établissements publics de coopération intercommunale",
+            "B": "Salariés",
+            "C": "Entreprises, exploitants agricoles, artisans, professions libérales, mutuelles et chambres consulaires",
+            "D": "Cohésion sociale et territoriale et de la vie associative",
+            "E": "Protection de la nature et de l'environnement"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "56. Que valorise l'adjectif callipyge ?",
+        "options": {
+            "A": "La santé",
+            "B": "L'écriture",
+            "C": "La silhouette",
+            "D": "L'esprit"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "57. Cherchez l'intrus !",
+        "options": {
+            "A": "Paul Klee",
+            "B": "Eugène Delacroix",
+            "C": "Edvard Munch",
+            "D": "Robert Doisneau",
+            "E": "Gustav Klimt"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "58. Dans une partition, combien de temps dure un soupir ?",
+        "options": {
+            "A": "Une croche",
+            "B": "Une noire",
+            "C": "Une blanche",
+            "D": "Une ronde",
+            "E": "Aucune de ces propositions"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "59. Que vient fixer en 1539 l'ordonnance de Villers-Cotterêts ?",
+        "options": {
+            "A": "Les frontières définitives du royaume de France",
+            "B": "Le Français comme langue officielle du droit et de l'administration",
+            "C": "La primogéniture mâle dans la dévolution de la couronne royale",
+            "D": "La départementalisation du territoire national",
+            "E": "Le Franc français comme unique monnaie du royaume"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "60. Quel est l'auteur des Mémoires d'outre-tombe ?",
+        "options": {
+            "A": "Honoré de Balzac",
+            "B": "Victor Hugo",
+            "C": "Guy de Maupassant",
+            "D": "François-René de Chateaubriand",
+            "E": "Émile Zola"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "61. Quel château a inspiré Hergé pour dessiner le château de Moulinsart pour sa série de bande dessinée Les Aventures de Tintin ?",
+        "options": {
+            "A": "Le château de Blois",
+            "B": "Le château de Cheverny",
+            "C": "Le château de Langeais",
+            "D": "Le château d'Amboise",
+            "E": "Le château de Chambord"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "62. Qui a peint Le Radeau de la Méduse ?",
+        "options": {
+            "A": "Auguste Renoir",
+            "B": "Paul Cézanne",
+            "C": "Théodore Géricault",
+            "D": "Eugène Delacroix",
+            "E": "Edgar Degas"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "63. Le 23 avril 2021, lequel de ces astronautes n'embarque pas à bord de la capsule Crew Dragon pour rejoindre la station spatiale internationale pour une mission d'une durée de six mois ?",
+        "options": {
+            "A": "le Français Thomas Pesquet",
+            "B": "l'Italien Luca Parmitano",
+            "C": "l'Américaine Katherine Megan McArthur",
+            "D": "le Japonais Akihiko Hoshide",
+            "E": "l'Américain Robert Shane Kimbrough"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "64. Dans quel département métropolitain se situe le Mont Gerbier-de-Jonc, massif au pied duquel la Loire prend sa source ?",
+        "options": {
+            "A": "la Lozère",
+            "B": "la Loire",
+            "C": "la Drôme",
+            "D": "la Haute-Loire",
+            "E": "l'Ardèche"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "65. Quelle est la fosse sous-marine la plus profonde ?",
+        "options": {
+            "A": "la fosse des Philippines",
+            "B": "la fosse des Mariannes",
+            "C": "la fosse du Japon",
+            "D": "la fosse des Tonga",
+            "E": "la fosse Calypso"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "66. Quelle est la capitale du Kazakhstan ?",
+        "options": {
+            "A": "Almaty",
+            "B": "Douchanbé",
+            "C": "Achgabat",
+            "D": "Astana",
+            "E": "Bichkek"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "67. Quel est le principal cépage du Saint-Émilion ?",
+        "options": {
+            "A": "le syrah",
+            "B": "le cabernet franc",
+            "C": "le merlot",
+            "D": "le cabernet sauvignon",
+            "E": "le gamay"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "68. En patinage artistique, quelle figure est appelée « le Bonaly » ?",
+        "options": {
+            "A": "le triple boucle piqué",
+            "B": "l'axel",
+            "C": "le double flip",
+            "D": "le salto arrière",
+            "E": "le saut de biche"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "69. La reine Élisabeth II s'est éteinte le 8 septembre 2022 au château de Balmoral en Écosse. Combien de temps aura duré son règne sur le trône d'Angleterre ?",
+        "options": {
+            "A": "60 ans",
+            "B": "65 ans",
+            "C": "70 ans",
+            "D": "75 ans",
+            "E": "80 ans"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "70. De qui est l'expression « Les Trente Glorieuses » ?",
+        "options": {
+            "A": "Jean Fourastié",
+            "B": "François Perroux",
+            "C": "Jean Monnet",
+            "D": "François Chesnais",
+            "E": "Raymond Barre"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "71. Depuis le « Brexit » en 2020, combien d'états sont-ils membres de l'Union Européenne ?",
+        "options": {
+            "A": "23",
+            "B": "25",
+            "C": "27",
+            "D": "29",
+            "E": "31"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "72. L'ambassade de France en Italie est située à Rome. Dans quel édifice siège-t-elle ?",
+        "options": {
+            "A": "La villa Médicis",
+            "B": "Le palais Firenze",
+            "C": "La villa Giulia",
+            "D": "Le palais Valentini",
+            "E": "Le palais Farnèse"
+        },
+        "correct": "E"
+    },
+    {
+        "question": "73. Qui est l'inventeur de la photographie ?",
+        "options": {
+            "A": "David Brewster",
+            "B": "Nicéphore Niépce",
+            "C": "Michael Faraday",
+            "D": "Thomas Edison",
+            "E": "Louis Lumière"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "74. Quel était le port d'attache du RMS Titanic lequel a sombré dans l'Atlantique Nord dans la nuit du 14 au 15 avril 1912 à la suite d'une collision avec un iceberg ?",
+        "options": {
+            "A": "Southampton",
+            "B": "Liverpool",
+            "C": "Queenstown",
+            "D": "New York",
+            "E": "Belfast"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "75. Le titre des « dix petits nègres » d'Agatha Christie a été modifié en 2020. Comment ce classique s'appelle-t-il désormais ?",
+        "options": {
+            "A": "Ils étaient dix",
+            "B": "Les dix petits soldats",
+            "C": "Ils ne sont que dix",
+            "D": "Les dix petits camarades",
+            "E": "Le couteau sur la nuque"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "76. Combien de sous-marins nucléaires lanceurs d'engins composent la flotte actuelle française ?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "77. La tendance à parler de ce qu'on ne connaît pas est aussi appelée :",
+        "options": {
+            "A": "la procrastination",
+            "B": "l'emphase",
+            "C": "l'ultracrépidarianisme",
+            "D": "l'anathème",
+            "E": "l'anatidaephobie"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "78. Quel concept poétique désigne l'état d'un être qui ne reconnaît plus de règle à son encontre, l'être en question pouvant être une collectivité :",
+        "options": {
+            "A": "l'anomie",
+            "B": "le hiératisme",
+            "C": "l'orthodoxie",
+            "D": "le panégyrique",
+            "E": "la rhétorique"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "79. Le « Discours de la servitude volontaire », qu'Étienne de La Boétie a rédigé à 16 ans, pose une question simple : pourquoi choisit-on d'obéir ? Au cours de quel siècle a été publié cet ouvrage ?",
+        "options": {
+            "A": "XVIème siècle",
+            "B": "XVIIème siècle",
+            "C": "XVIIIème siècle",
+            "D": "XIXème siècle"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "80. Combien de personnels composent la population totale des officiers de la gendarmerie nationale (chiffres consolidés 2021 - en position d'activité) ?",
+        "options": {
+            "A": "2.800",
+            "B": "3.850",
+            "C": "4.590",
+            "D": "6.290",
+            "E": "8.220"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "81. Dans la nuit du 22 au 23 décembre 2020, trois militaires de la compagnie d'Ambert, dans le Puy-de-Dôme, sont tués alors qu'ils intervenaient sur des violences intrafamiliales. Sur quelle commune a eu lieu ce drame ?",
+        "options": {
+            "A": "Saint-Just",
+            "B": "Riom",
+            "C": "Chevalier",
+            "D": "Clermont-Ferrand",
+            "E": "Montluçon"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "82. Qu'est-ce qu'un sous-officier CSTAGN ?",
+        "options": {
+            "A": "Un sous-officier du corps de soutien technique et administratif de la gendarmerie nationale",
+            "B": "Un sous-officier du corps des services technologiques et de l'anticipation de la gendarmerie nationale",
+            "C": "Un sous-officier du corps spécial des techniques d'acclimatation de la gendarmerie nationale",
+            "D": "Un sous-officier du corps de spécialité des techniques d'aguerrissement de la gendarmerie nationale"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "83. Quelle est la devise de la gendarmerie ?",
+        "options": {
+            "A": "Honneur et Fidélité",
+            "B": "Pour la Patrie, l'Honneur et le Droit",
+            "C": "Honneur, Patrie, Valeur, Discipline",
+            "D": "S'engager pour la vie",
+            "E": "Si tu veux la paix, prépare la guerre"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "84. Trouvez la bonne réponse pour compléter cette affirmation. « Les députés... :",
+        "options": {
+            "A": "sont élus tous les six ans",
+            "B": "peuvent cumuler la fonction de député avec un mandat local",
+            "C": "peuvent être réélus sans limite de candidature",
+            "D": "sont limités à deux mandats successifs"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "85. Quelle est la capitale de la Suisse ?",
+        "options": {
+            "A": "Bâle",
+            "B": "Berne",
+            "C": "Zurich",
+            "D": "Bienne",
+            "E": "Genève"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "86. Quelle miss a remporté le concours Miss France 2022 ?",
+        "options": {
+            "A": "Alsace",
+            "B": "Île-de-France",
+            "C": "Réunion",
+            "D": "Normandie",
+            "E": "Corse"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "87. Les Jeux Olympiques 2024 auront lieu à Paris. À cette occasion, le comité d'organisation a décidé que le karaté ne serait pas au programme, en revanche quelle discipline fera son apparition ?",
+        "options": {
+            "A": "roller sur piste",
+            "B": "bowling",
+            "C": "breakdance",
+            "D": "twirling bâton",
+            "E": "yoseikan budo"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "88. L'aconit est :",
+        "options": {
+            "A": "Une plante vénéneuse",
+            "B": "Une pierre précieuse",
+            "C": "Un oiseau pêcheur"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "89. La sécurité sociale a été créée en :",
+        "options": {
+            "A": "1924",
+            "B": "1936",
+            "C": "1945",
+            "D": "1946",
+            "E": "1958"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "90. Elle a été la base de la politique des États-Unis contre le bloc communiste durant la guerre froide. Il s'agit de la doctrine :",
+        "options": {
+            "A": "Monroe",
+            "B": "Truman",
+            "C": "Roosevelt",
+            "D": "Eisenhower",
+            "E": "Reagan"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "91. En 2017, Robert Mugabe a quitté le pouvoir. Il était président :",
+        "options": {
+            "A": "Du Zimbabwe",
+            "B": "De l'Ouganda",
+            "C": "De la Tanzanie",
+            "D": "De la Sierra Leone"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "92. Lequel de ces personnages shakespeariens a été interprété et mis en scène à l'écran par Orson Welles ?",
+        "options": {
+            "A": "Richard III",
+            "B": "Henri V",
+            "C": "Jules César",
+            "D": "Othello"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "93. Pour lequel de ces films le comédien Sami Bouajila a-t-il obtenu le César du meilleur acteur ?",
+        "options": {
+            "A": "Indigènes",
+            "B": "Omar m'a tuer",
+            "C": "Un fils",
+            "D": "Vivre me tue"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "94. Comment s'appelle le grillage géométrique des fenêtres des palais arabes ?",
+        "options": {
+            "A": "Le pishtak",
+            "B": "Le moucharabieh",
+            "C": "L'iwan",
+            "D": "Le hazerbaf",
+            "E": "Le qasr"
+        },
+        "correct": "B"
+    },
+    {
+        "question": "95. Quel sculpteur est un ancien sportif surnommé « casque d'or » ?",
+        "options": {
+            "A": "Eric Cantona",
+            "B": "Serge Blanco",
+            "C": "Serge Simon",
+            "D": "Jean-Pierre Rives",
+            "E": "Pierre Albaladejo"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "96. Le parc nucléaire civil français de production d'électricité se compose, en décembre 2021, de :",
+        "options": {
+            "A": "18 centres de production et 56 réacteurs",
+            "B": "20 centres de production et 60 réacteurs",
+            "C": "15 centres de production et 47 réacteurs",
+            "D": "18 centres de production et 52 réacteurs",
+            "E": "14 centres de production et 56 réacteurs"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "97. Qui est le dernier roi de France ?",
+        "options": {
+            "A": "Louis-Philippe d'Orléans",
+            "B": "Charles X",
+            "C": "Louis-Philippe 1er",
+            "D": "Louis XVI"
+        },
+        "correct": "C"
+    },
+    {
+        "question": "98. Dans quel état américain se trouve le Grand lac salé ?",
+        "options": {
+            "A": "Utah",
+            "B": "Arizona",
+            "C": "Colorado",
+            "D": "Nouveau-Mexique",
+            "E": "Nevada"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "99. Quel état du sud-est asiatique n'a-t-il pas été colonisé par les Occidentaux ?",
+        "options": {
+            "A": "la Birmanie",
+            "B": "le Cambodge",
+            "C": "l'Indonésie",
+            "D": "le Laos",
+            "E": "la Thaïlande"
+        },
+        "correct": "E"
+    },
+    {
+        "question": "100. Qui a dit « On ne devrait lire que les livres qui vous mordent et vous piquent » ?",
+        "options": {
+            "A": "Dino Buzzati",
+            "B": "Alfred de Musset",
+            "C": "Boris Vian",
+            "D": "Franz Kafka"
+        },
+        "correct": "C"
+    }
 ]
