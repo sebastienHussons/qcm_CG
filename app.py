@@ -79,7 +79,6 @@ qcm_file_2022 = "qcm_2022.json"
 qcm_file_2023 = "qcm_2023.json"
 qcm_file_2024 = "qcm_2024.json"
 
-
 qcm_2021_data = load_qcm(qcm_file_2021)
 qcm_2022_data = load_qcm(qcm_file_2022)
 qcm_2023_data = load_qcm(qcm_file_2023)
@@ -90,7 +89,6 @@ qcm_collection = {
     "QCM 2022": qcm_2022_data,
     "QCM 2023": qcm_2023_data,
     "QCM 2024": qcm_2024_data,
-   
 }
 
 qcm_file_mapping = {
@@ -98,7 +96,6 @@ qcm_file_mapping = {
     "QCM 2022": qcm_file_2022,
     "QCM 2023": qcm_file_2023,
     "QCM 2024": qcm_file_2024,
-   
 }
 
 # -----------------------------------------------------------------
@@ -181,13 +178,13 @@ if wrong_summary:
         st.write("---")
 
 updated_json = json.dumps(questions, indent=4, ensure_ascii=False)
-file_name = f"{str(selected_qcm).replace(' ', '_').lower()}_updated.json"
+# Utilisation du nom de fichier original tel que défini dans qcm_file_mapping
+file_name = qcm_file_mapping[selected_qcm]
 
 # -----------------------------------------------------------------
-# BOUTON POUR PUSH SUR GITHUB (MODIFICATION AJOUTÉE)
+# BOUTON POUR PUSH SUR GITHUB
 # -----------------------------------------------------------------
 if st.button("Pousser la correction sur GitHub"):
-    # Remplace "ton_nom_d_utilisateur" et "ton_repertoire" par les tiens
     github_owner = "sebastienHussons"
     github_repo = "qcm_CG"
     commit_message = "Mise à jour du QCM via Streamlit App"
@@ -198,8 +195,9 @@ if st.button("Pousser la correction sur GitHub"):
     else:
         error_text = response.text if response is not None else "Aucune réponse"
         st.error(f"Erreur lors de la mise à jour sur GitHub : {error_text}")
+
 # -----------------------------------------------------------------
-# BOUTON DE TÉLÉCHARGEMENT DU QCM ACTUEL (EXISTANT)
+# BOUTON DE TÉLÉCHARGEMENT DU QCM ACTUEL
 # -----------------------------------------------------------------
 st.download_button(
     label="Télécharger le QCM mis à jour",
