@@ -184,7 +184,7 @@ file_name = qcm_file_mapping[selected_qcm]
 # -----------------------------------------------------------------
 # BOUTON POUR PUSH SUR GITHUB
 # -----------------------------------------------------------------
-if st.button("Pousser la correction sur GitHub"):
+if st.button("mettre à jour la correction (push la correction sur GitHub PS : ne mettez pas de fausses corrections svp"):
     github_owner = "sebastienHussons"
     github_repo = "qcm_CG"
     commit_message = "Mise à jour du QCM via Streamlit App"
@@ -200,7 +200,7 @@ if st.button("Pousser la correction sur GitHub"):
 # BOUTON DE TÉLÉCHARGEMENT DU QCM ACTUEL
 # -----------------------------------------------------------------
 st.download_button(
-    label="Télécharger le QCM mis à jour",
+    label="Télécharger le json du QCM mis à jour",
     data=updated_json,
     file_name=file_name,
     mime="application/json"
