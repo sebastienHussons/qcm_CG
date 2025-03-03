@@ -192,9 +192,9 @@ file_name = f"{str(selected_qcm).replace(' ', '_').lower()}_updated.json"
 # BOUTON POUR PUSH SUR GITHUB (MODIFICATION AJOUTÉE)
 # -----------------------------------------------------------------
 if st.button("Pousser la correction sur GitHub"):
-    # Configure ces paramètres avec tes infos GitHub
-    github_owner = "ton_nom_d_utilisateur"
-    github_repo = "ton_repertoire"
+    # Remplace "ton_nom_d_utilisateur" et "ton_repertoire" par les tiens
+    github_owner = "sebastienHussons"
+    github_repo = "qcm_CG"
     commit_message = "Mise à jour du QCM via Streamlit App"
 
     response = push_to_github(updated_json, commit_message, github_owner, github_repo, file_name)
@@ -203,7 +203,6 @@ if st.button("Pousser la correction sur GitHub"):
     else:
         error_text = response.text if response is not None else "Aucune réponse"
         st.error(f"Erreur lors de la mise à jour sur GitHub : {error_text}")
-
 # -----------------------------------------------------------------
 # BOUTON DE TÉLÉCHARGEMENT DU QCM ACTUEL (EXISTANT)
 # -----------------------------------------------------------------
