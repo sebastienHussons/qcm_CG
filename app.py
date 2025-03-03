@@ -4,18 +4,55 @@ import streamlit as st
 import base64
 import requests
 
+# -----------------------------------------------------------------
+# FONCTIONS DE CHARGEMENT / SAUVEGARDE
+# -----------------------------------------------------------------
+def load_qcm(file_path):
+    if not os.path.exists(file_path):
+        st.warning(f"Fichier introuvable : {file_path}")
+        return []
+    try:
+        with open(file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
+    except json.JSONDecodeError as e:
+        st.error(f"Erreur JSON dans {file_path} : {e}")
+        return []
+    if not isinstance(data, list):
+        st.error(f"Le fichier {file_path} ne contient pas un tableau JSON.")
+        return []
+    cleaned_data = []
+    for idx, item in enumerate(data):
+        if (isinstance(item, dict)
+            and "question" in item
+            and "options" in item
+            and "correct" in item
+            and isinstance(item["options"], dict)):
+            cleaned_data.append(item)
+        else:
+            st.warning(f"Élément n°{idx} ignoré (format invalide) dans {file_path}.")
+    return cleaned_data
+
+def save_qcm(file_path, qcm_data):
+    try:
+        with open(file_path, "w", encoding="utf-8") as file:
+            json.dump(qcm_data, file, indent=4, ensure_ascii=False)
+    except Exception as e:
+        st.error(f"Impossible d'enregistrer le fichier {file_path} : {e}")
+
+# -----------------------------------------------------------------
+# FONCTION POUR PUSH SUR GITHUB (MODIFICATION AJOUTÉE)
+# -----------------------------------------------------------------
 def push_to_github(updated_json, commit_message, github_owner, github_repo, github_file_path, branch="main"):
     """
-    Met à jour le fichier sur GitHub en utilisant l'API GitHub.
-    La clé est récupérée depuis les secrets de Streamlit.
+    Pousse le fichier JSON mis à jour sur GitHub via l'API GitHub.
+    La clé est récupérée via st.secrets.
     """
-    # Récupère la clé stockée dans les secrets de Streamlit
+    # Récupération de la clé depuis les secrets de Streamlit
     github_token = st.secrets["GITHUB_TOKEN"]
-    
     url = f"https://api.github.com/repos/{github_owner}/{github_repo}/contents/{github_file_path}"
     headers = {"Authorization": f"token {github_token}"}
 
-    # Récupérer le SHA du fichier existant (si présent)
+    # Obtenir le SHA actuel du fichier (s'il existe)
     get_response = requests.get(url, headers=headers)
     if get_response.status_code == 200:
         file_info = get_response.json()
@@ -35,20 +72,144 @@ def push_to_github(updated_json, commit_message, github_owner, github_repo, gith
     return response
 
 # -----------------------------------------------------------------
-# Exemple d'utilisation dans ton app Streamlit
+# CHEMINS VERS LES FICHIERS QCM
 # -----------------------------------------------------------------
+qcm_file_2021 = "qcm_2021.json"
+qcm_file_2022 = "qcm_2022.json"
+qcm_file_2023 = "qcm_2023.json"
+qcm_file_2024 = "qcm_2024.json"
+qcm_file_supp1 = "qcm_100_questions.json"
+qcm_file_supp2 = "qcm_2_GPT_100.json"
 
-# Paramètres GitHub à configurer (remplace par tes infos)
-github_owner = "ton_nom_d_utilisateur"
-github_repo = "ton_repertoire"
-# Par exemple, pour sauvegarder dans le même fichier que celui généré par ton app
-github_file_path = f"{selected_qcm.replace(' ', '_').lower()}_updated.json"
-commit_message = "Mise à jour du QCM via Streamlit App"
+qcm_2021_data = load_qcm(qcm_file_2021)
+qcm_2022_data = load_qcm(qcm_file_2022)
+qcm_2023_data = load_qcm(qcm_file_2023)
+qcm_2024_data = load_qcm(qcm_file_2024)
+qcm_supp1_data = load_qcm(qcm_file_supp1)
+qcm_supp2_data = load_qcm(qcm_file_supp2)
 
+qcm_collection = {
+    "QCM 2021": qcm_2021_data,
+    "QCM 2022": qcm_2022_data,
+    "QCM 2023": qcm_2023_data,
+    "QCM 2024": qcm_2024_data,
+    "QCM Supplémentaire 1": qcm_supp1_data,
+    "QCM Supplémentaire 2": qcm_supp2_data
+}
+
+qcm_file_mapping = {
+    "QCM 2021": qcm_file_2021,
+    "QCM 2022": qcm_file_2022,
+    "QCM 2023": qcm_file_2023,
+    "QCM 2024": qcm_file_2024,
+    "QCM Supplémentaire 1": qcm_file_supp1,
+    "QCM Supplémentaire 2": qcm_file_supp2
+}
+
+# -----------------------------------------------------------------
+# INTERFACE STREAMLIT
+# -----------------------------------------------------------------
+st.title("QCM d'évaluation")
+
+selected_qcm = st.sidebar.selectbox("Choisissez le QCM :", list(qcm_collection.keys()))
+questions = qcm_collection[selected_qcm]
+st.header(f"{selected_qcm}")
+
+if not questions:
+    st.warning(f"Aucune question à afficher pour {selected_qcm}.")
+    st.stop()
+
+score = 0
+wrong_summary = []
+
+state_key = f"user_answers_{selected_qcm}"
+if state_key not in st.session_state:
+    st.session_state[state_key] = {}
+
+for idx, q in enumerate(questions):
+    st.markdown(f"**{q['question']}**")
+    placeholder_text = "Faites un choix"
+    all_options = [placeholder_text] + list(q["options"].keys())
+    current_answer = st.session_state[state_key].get(idx, placeholder_text)
+    chosen_answer = st.radio(
+        label="Votre réponse :",
+        options=all_options,
+        index=all_options.index(current_answer) if current_answer in all_options else 0,
+        key=f"radio_{selected_qcm}_{idx}"
+    )
+    st.session_state[state_key][idx] = chosen_answer
+
+    for letter, desc in q["options"].items():
+        st.markdown(f"- **{letter}** : {desc}")
+
+    if chosen_answer != placeholder_text:
+        if chosen_answer == q["correct"]:
+            st.success(f"Correct ! Votre réponse : {chosen_answer} - {q['options'][chosen_answer]}")
+            score += 1
+        else:
+            st.error(
+                f"Faux. Votre réponse : {chosen_answer} - {q['options'][chosen_answer]}. "
+                f"La bonne réponse officielle est : {q['correct']} - {q['options'][q['correct']]}"
+            )
+            wrong_summary.append({
+                "index": idx,
+                "question": q["question"],
+                "your_answer": chosen_answer,
+                "your_answer_text": q["options"][chosen_answer],
+                "correct": q["correct"],
+                "correct_text": q["options"][q["correct"]]
+            })
+
+        with st.expander("Corriger la bonne réponse officielle"):
+            st.write("Sélectionnez la nouvelle réponse correcte ci-dessous :")
+            new_correct = st.selectbox("Nouvelle bonne réponse :", list(q["options"].keys()), key=f"new_correct_{selected_qcm}_{idx}")
+            if st.button("Enregistrer la correction", key=f"save_correct_{selected_qcm}_{idx}"):
+                q["correct"] = new_correct
+                save_qcm(qcm_file_mapping[selected_qcm], questions)
+                st.success("Nouvelle réponse officielle enregistrée !")
+    st.write("---")
+
+total_questions = len(questions)
+percentage = (score / total_questions) * 100 if total_questions else 0
+score_out_of_20 = (percentage * 20) / 100
+
+st.subheader(f"Score final : {score} / {total_questions}")
+st.subheader(f"Note en pourcentage : {percentage:.2f} %")
+st.subheader(f"Note sur 20 : {score_out_of_20:.2f} / 20")
+
+if wrong_summary:
+    st.header("Récapitulatif des questions incorrectes")
+    for item in wrong_summary:
+        st.markdown(f"**{item['question']}**")
+        st.write(f"Votre réponse : {item['your_answer']} - {item['your_answer_text']}")
+        st.write(f"Bonne réponse : {item['correct']} - {item['correct_text']}")
+        st.write("---")
+
+updated_json = json.dumps(questions, indent=4, ensure_ascii=False)
+file_name = f"{str(selected_qcm).replace(' ', '_').lower()}_updated.json"
+
+# -----------------------------------------------------------------
+# BOUTON POUR PUSH SUR GITHUB (MODIFICATION AJOUTÉE)
+# -----------------------------------------------------------------
 if st.button("Pousser la correction sur GitHub"):
-    response = push_to_github(updated_json, commit_message, github_owner, github_repo, github_file_path)
+    # Configure ces paramètres avec tes infos GitHub
+    github_owner = "ton_nom_d_utilisateur"
+    github_repo = "ton_repertoire"
+    commit_message = "Mise à jour du QCM via Streamlit App"
+
+    response = push_to_github(updated_json, commit_message, github_owner, github_repo, file_name)
     if response is not None and response.status_code in [200, 201]:
         st.success("Le fichier JSON a été mis à jour sur GitHub avec succès !")
     else:
         error_text = response.text if response is not None else "Aucune réponse"
         st.error(f"Erreur lors de la mise à jour sur GitHub : {error_text}")
+
+# -----------------------------------------------------------------
+# BOUTON DE TÉLÉCHARGEMENT DU QCM ACTUEL (EXISTANT)
+# -----------------------------------------------------------------
+st.download_button(
+    label="Télécharger le QCM mis à jour",
+    data=updated_json,
+    file_name=file_name,
+    mime="application/json"
+)
